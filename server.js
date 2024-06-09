@@ -1,4 +1,12 @@
 const restaurantsFun = require("./restaurants");
+const cakes = require("./cakes");
+const chinese = require("./chinese");
+const cocktails = require("./cocktails");
+const desserts = require("./desserts");
+const pizzas = require("./pizzas");
+const vege = require("./vege");
+
+const menu = [...cakes, ...chinese, ...cocktails, ...desserts, ...pizzas, ...vege]
 
 const express = require("express");
 const bodyParser = require("body-parser");
@@ -8,91 +16,85 @@ const app = express();
 const PORT = process.env.PORT || 8880;
 app.use(bodyParser.json());
 
-const restaurants = restaurantsFun();
-
-
 // API endpoints
 
 // Get all restaurants
 app.get("/", (req, res) => {
     res.json("Api Is Working successsfully");
   });
-  
-  app.get("/restaurants", (req, res) => {
-    res.json(restaurants);
+  app.get("/cakes", (req, res) => {
+    res.json(cakes);
   });
-  
-  // Get a specific restaurant by ID
-  app.get("/restaurants/:id", (req, res) => {
-    const id = parseInt(req.params.id);
-    const restaurant = restaurants.find((restaurant) => restaurant.id === id);
-    if (!restaurant) {
-      return res.status(404).json({ message: "Restaurant not found" });
-    }
-    res.json(restaurant);
+  app.get("/chinese", (req, res) => {
+    res.json(chinese);
+  });
+  app.get("/cocktails", (req, res) => {
+    res.json(cocktails);
+  });
+  app.get("/desserts", (req, res) => {
+    res.json(desserts);
+  });
+  app.get("/pizzas", (req, res) => {
+    res.json(pizzas);
+  });
+  app.get("/vege", (req, res) => {
+    res.json(vege);
   });
   
   // Get restaurants by name or food name
-  app.get("/restaurants/search/:query", (req, res) => {
+  app.get("/menu/search/:query", (req, res) => {
     let query = req.params.query || "";
     query = query.toLowerCase();
     console.log(query);
-    const results = restaurants.filter(
-      (restaurant) =>
-        restaurant.name.toLowerCase().includes(query) ||
-        restaurant.cuisine.toLowerCase().includes(query)
-    );
-    res.json(results);
-  });
-  
-  // Get restaurants by category of food
-  app.get("/restaurants/food/:category", (req, res) => {
-    const category = req.params.category.toLowerCase();
-    const results = restaurants.filter((restaurant) =>
-      restaurant.foods.some((food) => food.toLowerCase().startsWith(category))
+    const results = menu.filter(
+      (item) =>
+        item.name.toLowerCase().includes(query)
     );
     res.json(results);
   });
   
   // Add a new restaurant
-  app.post("/restaurants", (req, res) => {
-    const { name, cuisine, rating, foods } = req.body;
-    if (!name || !cuisine || !rating || !foods) {
+  app.post("/items/:item", (req, res) => {
+    let item = req.params.itemtoLowerCase();
+    const { name, image, price, sizes = {}} = req.body;
+    if (!name || !image || !price) {
       return res
         .status(400)
-        .json({ message: "Name, cuisine, rating, and foods are required" });
+        .json({ message: "Name, image, and price are required" });
     }
-    const newRestaurant = {
-      id: restaurants.length + 1,
+    const newItem = {
+      id: cakes.length + 1,
       name,
-      cuisine,
-      rating,
-      foods,
+      image,
+      price,
+      sizes : [sizes],
     };
-    restaurants.push(newRestaurant);
-    res.status(201).json(newRestaurant);
-  });
-  
-  // Update an existing restaurant
-  app.put("/restaurants/:id", (req, res) => {
-    const id = parseInt(req.params.id);
-    const restaurant = restaurants.find((restaurant) => restaurant.id === id);
-    if (!restaurant) {
-      return res.status(404).json({ message: "Restaurant not found" });
+    switch (item) {
+      case "cakes":
+        cakes.push(newItem);
+        break;
+      case "chinese":
+        chinese.push(newItem);
+        break;
+      case "cocktails":
+        cocktails.push(newItem);
+        break;
+      case "desserts":
+        desserts.push(newItem);
+        break;
+      case "pizzas":
+        pizzas.push(newItem);
+        break;
+      case "vege":
+        vege.push(newItem);
+        break;
+      default:
+        return res.status(400).json({ message: "Invalid item" });
     }
-    restaurant.name = req.body.name || restaurant.name;
-    restaurant.cuisine = req.body.cuisine || restaurant.cuisine;
-    restaurant.rating = req.body.rating || restaurant.rating;
-    restaurant.foods = req.body.foods || restaurant.foods;
-    res.json(restaurant);
+    menu = [...cakes, ...chinese, ...cocktails, ...desserts, ...pizzas, ...vege]
+    res.status(201).json(newItem);
   });
-  
-  // Delete a restaurant
-  app.delete("/restaurants/:id", (req, res) => {
-    const id = parseInt(req.params.id);
-    restaurants = restaurants.filter((restaurant) => restaurant.id !== id);
-    res.status(204).send();
-  });
+
 
 
 app.listen(PORT, () => {

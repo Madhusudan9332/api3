@@ -1,0 +1,356 @@
+[
+  {
+    "id": "1",
+    "name": "Raspberry and custard muffins",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/1.jpg",
+    "price": 5
+  },
+  {
+    "id": "2",
+    "name": "Lemon and blackberry stripe cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/2.jpg",
+    "price": 3
+  },
+  {
+    "id": "3",
+    "name": "Paul Hollywood’s chocolate fudge cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/3.jpg",
+    "price": 2
+  },
+  {
+    "id": "4",
+    "name": "Lemon and strawberry meringue cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/4.jpg",
+    "price": 4
+  },
+  {
+    "id": "5",
+    "name": "Vegan chocolate cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/5.jpg",
+    "price": 5
+  },
+  {
+    "id": "6",
+    "name": "Spiced plum cake with swiss meringue frosting",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/6.jpg",
+    "price": 1
+  },
+  {
+    "id": "7",
+    "name": "Lemon and courgette cake with white chocolate cream cheese frosting",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/7.jpg",
+    "price": 4
+  },
+  {
+    "id": "8",
+    "name": "Chocolate cake with caramel poached pears and chocolate buttercream",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/8.jpg",
+    "price": 2
+  },
+  {
+    "id": "9",
+    "name": "Rhubarb and custard layer cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/9.jpg",
+    "price": 4
+  },
+  {
+    "id": "10",
+    "name": "Spring lamb cupcakes",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/10.jpg",
+    "price": 5
+  },
+  {
+    "id": "11",
+    "name": "Peanut butter drip cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/11.jpg",
+    "price": 2
+  },
+  {
+    "id": "12",
+    "name": "Ginger drizzle traybake with cream cheese icing",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/12.jpg",
+    "price": 2
+  },
+  {
+    "id": "13",
+    "name": "Baked lemon cheesecake with pineapple flowers",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/13.jpg",
+    "price": 4
+  },
+  {
+    "id": "14",
+    "name": "Carrot and cheesecake layer cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/14.jpg",
+    "price": 5
+  },
+  {
+    "id": "15",
+    "name": "Sugarplum fairy cakes",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/15.jpg",
+    "price": 2
+  },
+  {
+    "id": "16",
+    "name": "Summer-cup bundt drizzle cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/16.jpg",
+    "price": 4
+  },
+  {
+    "id": "17",
+    "name": "St Clement’s squares",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/17.jpg",
+    "price": 1
+  },
+  {
+    "id": "18",
+    "name": "Caramelised white chocolate, burnt butter and tahini cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/18.jpg",
+    "price": 1
+  },
+  {
+    "id": "19",
+    "name": "Eric Lanlard’s carrot and pumpkin celebration cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/19.jpg",
+    "price": 1
+  },
+  {
+    "id": "20",
+    "name": "Tunnock’s teacake traybake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/20.jpg",
+    "price": 5
+  },
+  {
+    "id": "21",
+    "name": "Easy butterfly cakes",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/21.jpg",
+    "price": 4
+  },
+  {
+    "id": "22",
+    "name": "Chocolate cupcakes",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/22.jpg",
+    "price": 1
+  },
+  {
+    "id": "23",
+    "name": "Orange blossom, lemon thyme and almond cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/23.jpg",
+    "price": 3
+  },
+  {
+    "id": "24",
+    "name": "Eton mess traybake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/24.jpg",
+    "price": 5
+  },
+  {
+    "id": "25",
+    "name": "Nut-free carrot cupcakes",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/25.jpg",
+    "price": 3
+  },
+  {
+    "id": "26",
+    "name": "Raspberry and lemon sponge cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/26.jpg",
+    "price": 2
+  },
+  {
+    "id": "27",
+    "name": "Strawberry and rose victoria sponge sandwich",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/27.jpg",
+    "price": 4
+  },
+  {
+    "id": "28",
+    "name": "Toffee ice-cream cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/28.jpg",
+    "price": 1
+  },
+  {
+    "id": "29",
+    "name": "Easy flourless chocolate cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/29.jpg",
+    "price": 5
+  },
+  {
+    "id": "30",
+    "name": "Sticky toffee pudding cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/30.jpg",
+    "price": 3
+  },
+  {
+    "id": "31",
+    "name": "Frozen lemon and blueberry mousse cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/31.jpg",
+    "price": 3
+  },
+  {
+    "id": "32",
+    "name": "Secret-ingredient chocolate bundt cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/32.jpg",
+    "price": 2
+  },
+  {
+    "id": "33",
+    "name": "White forest gateau",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/33.jpg",
+    "price": 1
+  },
+  {
+    "id": "34",
+    "name": "Ginger and honey biscuit cake with choc-orange icing",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/34.jpg",
+    "price": 2
+  },
+  {
+    "id": "35",
+    "name": "Giant Jaffa cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/35.jpg",
+    "price": 3
+  },
+  {
+    "id": "36",
+    "name": "Eric Lanlard’s clementine and pomegranate cake (gluten-free)",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/36.jpg",
+    "price": 2
+  },
+  {
+    "id": "37",
+    "name": "Coconut and lime angel cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/37.jpg",
+    "price": 2
+  },
+  {
+    "id": "38",
+    "name": "Daim bar layer cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/38.jpg",
+    "price": 5
+  },
+  {
+    "id": "39",
+    "name": "Elderflower, lemon and cherry cream flourless cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/39.jpg",
+    "price": 4
+  },
+  {
+    "id": "40",
+    "name": "Chetna Makan’s pistachio, cardamom and white chocolate cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/40.jpg",
+    "price": 5
+  },
+  {
+    "id": "41",
+    "name": "Simple buttercream icing",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/41.jpg",
+    "price": 3
+  },
+  {
+    "id": "42",
+    "name": "Chocolate porter cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/42.jpg",
+    "price": 3
+  },
+  {
+    "id": "43",
+    "name": "Triple-chocolate layer cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/43.jpg",
+    "price": 4
+  },
+  {
+    "id": "44",
+    "name": "Chocolate cola cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/44.jpg",
+    "price": 2
+  },
+  {
+    "id": "45",
+    "name": "Gluten-free chocolate cake with raspberries",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/45.jpg",
+    "price": 2
+  },
+  {
+    "id": "46",
+    "name": "Pop cakes",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/46.jpg",
+    "price": 1
+  },
+  {
+    "id": "47",
+    "name": "Mary Berry’s malted chocolate cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/47.jpg",
+    "price": 1
+  },
+  {
+    "id": "48",
+    "name": "Chocolate celebration layer cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/48.jpg",
+    "price": 3
+  },
+  {
+    "id": "49",
+    "name": "Apple caramel layer cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/49.jpg",
+    "price": 2
+  },
+  {
+    "id": "50",
+    "name": "Red velvet cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/50.jpg",
+    "price": 2
+  },
+  {
+    "id": "51",
+    "name": "Paul Hollywood’s ultimate carrot cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/51.jpg",
+    "price": 5
+  },
+  {
+    "id": "52",
+    "name": "Mary Berry’s very best chocolate and orange cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/52.jpg",
+    "price": 1
+  },
+  {
+    "id": "53",
+    "name": "Classic sponge cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/53.jpg",
+    "price": 5
+  },
+  {
+    "id": "54",
+    "name": "Gluten-free birthday cake sponge",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/54.jpg",
+    "price": 5
+  },
+  {
+    "id": "55",
+    "name": "Ultimate chocolate mousse cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/55.jpg",
+    "price": 1
+  },
+  {
+    "id": "56",
+    "name": "Lavender cupcakes",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/56.jpg",
+    "price": 4
+  },
+  {
+    "id": "57",
+    "name": "Chocolate and berry traybake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/57.jpg",
+    "price": 1
+  },
+  {
+    "id": "58",
+    "name": "Easy coconut and chocolate cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/58.jpg",
+    "price": 2
+  },
+  {
+    "id": "59",
+    "name": "Lemon and coconut cake",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/59.jpg",
+    "price": 2
+  }
+]
