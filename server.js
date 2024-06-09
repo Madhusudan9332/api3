@@ -1,4 +1,8 @@
-const restaurantsFun = require("./restaurants");
+const express = require("express");
+const bodyParser = require("body-parser");
+const cors = require("cors");
+
+// const restaurantsFun = require("./restaurants");
 const cakes = require("./cakes");
 const chinese = require("./chinese");
 const cocktails = require("./cocktails");
@@ -8,17 +12,15 @@ const vege = require("./vege");
 
 const menu = [...cakes, ...chinese, ...cocktails, ...desserts, ...pizzas, ...vege]
 
-const express = require("express");
-const bodyParser = require("body-parser");
 
-// Initialize Express app
+
 const app = express();
 const PORT = process.env.PORT || 8880;
 app.use(bodyParser.json());
+app.use(cors());
 
 // API endpoints
 
-// Get all restaurants
 app.get("/", (req, res) => {
     res.json("Api Is Working successsfully");
   });
@@ -45,7 +47,8 @@ app.get("/", (req, res) => {
     res.json(menu);
   });
   
-  // Get restaurants by name or food name
+  // get item by name
+  
   app.get("/menu/search/:query", (req, res) => {
     let query = req.params.query || "";
     query = query.toLowerCase();
@@ -57,7 +60,7 @@ app.get("/", (req, res) => {
     res.json(results);
   });
   
-  // Add a new restaurant
+  // Add a new item
   app.post("/items/:item", (req, res) => {
     let item = req.params.itemtoLowerCase();
     const { name, image, price, sizes = {}} = req.body;
