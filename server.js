@@ -41,6 +41,10 @@ app.get("/", (req, res) => {
     res.json(vege);
   });
   
+  app.get("/menu", (req, res) => {
+    res.json(menu);
+  });
+  
   // Get restaurants by name or food name
   app.get("/menu/search/:query", (req, res) => {
     let query = req.params.query || "";
