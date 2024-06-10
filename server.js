@@ -102,6 +102,95 @@ app.get("/", (req, res) => {
     res.status(201).json(newItem);
   });
 
+// PUT method to update an existing item
+app.put("/update/:item/:id", (req, res) => {
+  const item = req.params.item.toLowerCase();
+  const id = parseInt(req.params.id);
+
+  let itemList;
+  switch (item) {
+    case "cakes":
+      itemList = cakes;
+      break;
+    case "chinese":
+      itemList = chinese;
+      break;
+    case "cocktails":
+      itemList = cocktails;
+      break;
+    case "desserts":
+      itemList = desserts;
+      break;
+    case "pizzas":
+      itemList = pizzas;
+      break;
+    case "vege":
+      itemList = vege;
+      break;
+    default:
+      return res.status(400).json({ message: "Invalid item" });
+  }
+
+  const index = itemList.findIndex((item) => item.id === id);
+  if (index === -1) {
+    return res.status(404).json({ message: "Item not found" });
+  }
+
+  const updatedItem = {
+    ...itemList[index], // Copy existing item
+    ...req.body, // Update with new data from request body
+  };
+
+  itemList[index] = updatedItem;
+
+  // Update the menu
+  menu = [...cakes, ...chinese, ...cocktails, ...desserts, ...pizzas, ...vege];
+
+  res.json(updatedItem);
+});
+
+
+// PUT method to update all items of a specific type
+app.put("/update-all/:item", (req, res) => {
+  const item = req.params.item.toLowerCase();
+
+  let itemList;
+  switch (item) {
+    case "cakes":
+      itemList = cakes;
+      break;
+    case "chinese":
+      itemList = chinese;
+      break;
+    case "cocktails":
+      itemList = cocktails;
+      break;
+    case "desserts":
+      itemList = desserts;
+      break;
+    case "pizzas":
+      itemList = pizzas;
+      break;
+    case "vege":
+      itemList = vege;
+      break;
+    default:
+      return res.status(400).json({ message: "Invalid item" });
+  }
+
+  // Update all items of the specified type
+  itemList.forEach((item, index) => {
+    itemList[index] = {
+      ...item,
+      ...req.body, // Update with new data from request body
+    };
+  });
+
+  // Update the menu
+  menu = [...cakes, ...chinese, ...cocktails, ...desserts, ...pizzas, ...vege];
+
+  res.json(itemList); // Return updated items
+});
 
 
 app.listen(PORT, () => {
