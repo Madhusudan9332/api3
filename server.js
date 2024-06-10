@@ -75,6 +75,7 @@ app.get("/", (req, res) => {
       image,
       price,
       sizes : [sizes],
+      ...req.body
     };
     switch (item) {
       case "cakes":
