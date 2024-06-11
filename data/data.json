@@ -1,0 +1,2135 @@
+[
+  {
+    "name": "samosa",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Classic Potato Samosa",
+          "price": 110,
+          "image": "https://foodish-api.com/images/samosa/samosa1.jpg"
+        },
+        {
+          "name": "Cheesy Paneer Samosa",
+          "price": 230,
+          "image": "https://foodish-api.com/images/samosa/samosa3.jpg"
+        },
+        {
+          "name": "Veggie Delight Samosa",
+          "price": 221,
+          "image": "https://foodish-api.com/images/samosa/samosa4.jpg"
+        },
+        {
+          "name": "Aloo Tikki Samosa",
+          "price": 242,
+          "image": "https://foodish-api.com/images/samosa/samosa8.jpg"
+        },
+        {
+          "name": "Corn and Cheese Samosa",
+          "price": 174,
+          "image": "https://foodish-api.com/images/samosa/samosa9.jpg"
+        },
+        {
+          "name": "Spinach and Feta Samosa",
+          "price": 129,
+          "image": "https://foodish-api.com/images/samosa/samosa10.jpg"
+        },
+        {
+          "name": "Mushroom Masala Samosa",
+          "price": 129,
+          "image": "https://foodish-api.com/images/samosa/samosa11.jpg"
+        },
+        {
+          "name": "Sweet Potato Samosa",
+          "price": 158,
+          "image": "https://foodish-api.com/images/samosa/samosa13.jpg"
+        },
+        {
+          "name": "Paneer Tikka Samosa",
+          "price": 279,
+          "image": "https://foodish-api.com/images/samosa/samosa14.jpg"
+        },
+        {
+          "name": "Chocolate Samosa",
+          "price": 147,
+          "image": "https://foodish-api.com/images/samosa/samosa15.jpg"
+        },
+        {
+          "name": "Chili Paneer Samosa",
+          "price": 204,
+          "image": "https://foodish-api.com/images/samosa/samosa18.jpg"
+        },
+        {
+          "name": "Mexican Style Samosa",
+          "price": 81,
+          "image": "https://foodish-api.com/images/samosa/samosa19.jpg"
+        },
+        {
+          "name": "Italian Herb Samosa",
+          "price": 86,
+          "image": "https://foodish-api.com/images/samosa/samosa20.jpg"
+        },
+        {
+          "name": "Jalapeno Popper Samosa",
+          "price": 141,
+          "image": "https://foodish-api.com/images/samosa/samosa22.jpg"
+        }
+      ],
+      "non vegetarian": [
+        {
+          "name": "Spicy Chicken Samosa",
+          "price": 50,
+          "image": "https://foodish-api.com/images/samosa/samosa2.jpg"
+        },
+        {
+          "name": "Keema (Minced Meat) Samosa",
+          "price": 266,
+          "image": "https://foodish-api.com/images/samosa/samosa5.jpg"
+        },
+        {
+          "name": "Butter Chicken Samosa",
+          "price": 124,
+          "image": "https://foodish-api.com/images/samosa/samosa6.jpg"
+        },
+        {
+          "name": "Tikka Masala Samosa",
+          "price": 213,
+          "image": "https://foodish-api.com/images/samosa/samosa7.jpg"
+        },
+        {
+          "name": "Chili Garlic Samosa",
+          "price": 203,
+          "image": "https://foodish-api.com/images/samosa/samosa12.jpg"
+        },
+        {
+          "name": "BBQ Chicken Samosa",
+          "price": 151,
+          "image": "https://foodish-api.com/images/samosa/samosa17.jpg"
+        },
+        {
+          "name": "Buffalo Chicken Samosa",
+          "price": 167,
+          "image": "https://foodish-api.com/images/samosa/samosa21.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "rice",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Steamed Basmati Rice",
+          "price": 134,
+          "image": "https://foodish-api.com/images/rice/rice1.jpg"
+        },
+        {
+          "name": "Vegetable Fried Rice",
+          "price": 86,
+          "image": "https://foodish-api.com/images/rice/rice2.jpg"
+        },
+        {
+          "name": "Coconut Rice",
+          "price": 127,
+          "image": "https://foodish-api.com/images/rice/rice3.jpg"
+        },
+        {
+          "name": "Saffron Rice",
+          "price": 235,
+          "image": "https://foodish-api.com/images/rice/rice4.jpg"
+        },
+        {
+          "name": "Lemon Rice",
+          "price": 216,
+          "image": "https://foodish-api.com/images/rice/rice5.jpg"
+        },
+        {
+          "name": "Tomato Rice",
+          "price": 238,
+          "image": "https://foodish-api.com/images/rice/rice7.jpg"
+        },
+        {
+          "name": "Jeera Rice",
+          "price": 109,
+          "image": "https://foodish-api.com/images/rice/rice8.jpg"
+        },
+        {
+          "name": "Mushroom Rice",
+          "price": 162,
+          "image": "https://foodish-api.com/images/rice/rice9.jpg"
+        },
+        {
+          "name": "Tamarind Rice",
+          "price": 114,
+          "image": "https://foodish-api.com/images/rice/rice10.jpg"
+        },
+        {
+          "name": "Herbed Rice Pilaf",
+          "price": 156,
+          "image": "https://foodish-api.com/images/rice/rice11.jpg"
+        },
+        {
+          "name": "Cilantro Lime Rice",
+          "price": 99,
+          "image": "https://foodish-api.com/images/rice/rice12.jpg"
+        },
+        {
+          "name": "Jasmine Rice",
+          "price": 94,
+          "image": "https://foodish-api.com/images/rice/rice13.jpg"
+        },
+        {
+          "name": "Mango Rice",
+          "price": 123,
+          "image": "https://foodish-api.com/images/rice/rice14.jpg"
+        },
+        {
+          "name": "Garlic Butter Rice",
+          "price": 127,
+          "image": "https://foodish-api.com/images/rice/rice15.jpg"
+        },
+        {
+          "name": "Cajun Spiced Rice",
+          "price": 105,
+          "image": "https://foodish-api.com/images/rice/rice16.jpg"
+        },
+        {
+          "name": "Bell Pepper Rice",
+          "price": 135,
+          "image": "https://foodish-api.com/images/rice/rice17.jpg"
+        },
+        {
+          "name": "Pineapple Rice",
+          "price": 122,
+          "image": "https://foodish-api.com/images/rice/rice18.jpg"
+        },
+        {
+          "name": "Black Bean and Corn Rice",
+          "price": 267,
+          "image": "https://foodish-api.com/images/rice/rice19.jpg"
+        },
+        {
+          "name": "Spanish Rice",
+          "price": 290,
+          "image": "https://foodish-api.com/images/rice/rice20.jpg"
+        },
+        {
+          "name": "Thai Coconut Curry Rice",
+          "price": 149,
+          "image": "https://foodish-api.com/images/rice/rice21.jpg"
+        },
+        {
+          "name": "Wild Rice Pilaf",
+          "price": 175,
+          "image": "https://foodish-api.com/images/rice/rice22.jpg"
+        },
+        {
+          "name": "Biryani",
+          "price": 72,
+          "image": "https://foodish-api.com/images/rice/rice23.jpg"
+        },
+        {
+          "name": "Quinoa Pilaf",
+          "price": 108,
+          "image": "https://foodish-api.com/images/rice/rice25.jpg"
+        },
+        {
+          "name": "Butternut Squash Risotto",
+          "price": 91,
+          "image": "https://foodish-api.com/images/rice/rice26.jpg"
+        },
+        {
+          "name": "Pesto Rice",
+          "price": 143,
+          "image": "https://foodish-api.com/images/rice/rice27.jpg"
+        },
+        {
+          "name": "Sun-dried Tomato Rice",
+          "price": 202,
+          "image": "https://foodish-api.com/images/rice/rice28.jpg"
+        },
+        {
+          "name": "Mexican Rice",
+          "price": 68,
+          "image": "https://foodish-api.com/images/rice/rice29.jpg"
+        },
+        {
+          "name": "Rice Pilaf with Almonds",
+          "price": 164,
+          "image": "https://foodish-api.com/images/rice/rice30.jpg"
+        },
+        {
+          "name": "Ghee Rice",
+          "price": 193,
+          "image": "https://foodish-api.com/images/rice/rice31.jpg"
+        },
+        {
+          "name": "Brown Rice",
+          "price": 234,
+          "image": "https://foodish-api.com/images/rice/rice32.jpg"
+        },
+        {
+          "name": "Mint Rice",
+          "price": 200,
+          "image": "https://foodish-api.com/images/rice/rice33.jpg"
+        },
+        {
+          "name": "Chickpea and Spinach Rice",
+          "price": 295,
+          "image": "https://foodish-api.com/images/rice/rice34.jpg"
+        },
+        {
+          "name": "Rice with Peas",
+          "price": 115,
+          "image": "https://foodish-api.com/images/rice/rice35.jpg"
+        }
+      ],
+      "non vegetarian": [
+        {
+          "name": "Spicy Chicken Rice",
+          "price": 96,
+          "image": "https://foodish-api.com/images/rice/rice6.jpg"
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "price": 213,
+          "image": "https://foodish-api.com/images/rice/rice24.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "pizza",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Margherita Pizza",
+          "price": 257,
+          "image": "https://foodish-api.com/images/pizza/pizza1.jpg"
+        },
+        {
+          "name": "Cheese Pizza",
+          "price": 236,
+          "image": "https://foodish-api.com/images/pizza/pizza2.jpg"
+        },
+        {
+          "name": "Vegetarian Pizza",
+          "price": 239,
+          "image": "https://foodish-api.com/images/pizza/pizza3.jpg"
+        },
+        {
+          "name": "Mushroom Pizza",
+          "price": 255,
+          "image": "https://foodish-api.com/images/pizza/pizza4.jpg"
+        },
+        {
+          "name": "Onion Pizza",
+          "price": 208,
+          "image": "https://foodish-api.com/images/pizza/pizza5.jpg"
+        },
+        {
+          "name": "Capsicum Pizza",
+          "price": 258,
+          "image": "https://foodish-api.com/images/pizza/pizza6.jpg"
+        },
+        {
+          "name": "Tomato Pizza",
+          "price": 97,
+          "image": "https://foodish-api.com/images/pizza/pizza7.jpg"
+        },
+        {
+          "name": "Spinach Pizza",
+          "price": 197,
+          "image": "https://foodish-api.com/images/pizza/pizza8.jpg"
+        },
+        {
+          "name": "Broccoli Pizza",
+          "price": 296,
+          "image": "https://foodish-api.com/images/pizza/pizza9.jpg"
+        },
+        {
+          "name": "Zucchini Pizza",
+          "price": 242,
+          "image": "https://foodish-api.com/images/pizza/pizza10.jpg"
+        }
+      ],
+      "non vegetarian": [
+        {
+          "name": "BBQ Chicken Pizza",
+          "price": 164,
+          "image": "https://foodish-api.com/images/pizza/pizza11.jpg"
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "price": 149,
+          "image": "https://foodish-api.com/images/pizza/pizza12.jpg"
+        },
+        {
+          "name": "Meat Lover's Pizza",
+          "price": 271,
+          "image": "https://foodish-api.com/images/pizza/pizza13.jpg"
+        },
+        {
+          "name": "Hawaiian Pizza",
+          "price": 57,
+          "image": "https://foodish-api.com/images/pizza/pizza14.jpg"
+        },
+        {
+          "name": "Sausage Pizza",
+          "price": 119,
+          "image": "https://foodish-api.com/images/pizza/pizza15.jpg"
+        },
+        {
+          "name": "Chicken Supreme Pizza",
+          "price": 204,
+          "image": "https://foodish-api.com/images/pizza/pizza16.jpg"
+        },
+        {
+          "name": "Buffalo Chicken Pizza",
+          "price": 185,
+          "image": "https://foodish-api.com/images/pizza/pizza17.jpg"
+        },
+        {
+          "name": "Tandoori Chicken Pizza",
+          "price": 130,
+          "image": "https://foodish-api.com/images/pizza/pizza18.jpg"
+        },
+        {
+          "name": "Chicken Tikka Pizza",
+          "price": 149,
+          "image": "https://foodish-api.com/images/pizza/pizza19.jpg"
+        },
+        {
+          "name": "BBQ Beef Pizza",
+          "price": 119,
+          "image": "https://foodish-api.com/images/pizza/pizza20.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "pasta",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Mediterranean Delight",
+          "price": 206,
+          "image": "https://foodish-api.com/images/pasta/pasta2.jpg"
+        },
+        {
+          "name": "Primavera Garden",
+          "price": 115,
+          "image": "https://foodish-api.com/images/pasta/pasta5.jpg"
+        },
+        {
+          "name": "Pesto Paradise",
+          "price": 56,
+          "image": "https://foodish-api.com/images/pasta/pasta7.jpg"
+        },
+        {
+          "name": "Truffle Temptation",
+          "price": 215,
+          "image": "https://foodish-api.com/images/pasta/pasta9.jpg"
+        },
+        {
+          "name": "Creamy Mushroom Medley",
+          "price": 133,
+          "image": "https://foodish-api.com/images/pasta/pasta10.jpg"
+        },
+        {
+          "name": "Tuscan Sun-dried Tomato",
+          "price": 218,
+          "image": "https://foodish-api.com/images/pasta/pasta12.jpg"
+        },
+        {
+          "name": "Pumpkin Sage Farfalle",
+          "price": 99,
+          "image": "https://foodish-api.com/images/pasta/pasta21.jpg"
+        },
+        {
+          "name": "Roasted Garlic Gnocchi",
+          "price": 189,
+          "image": "https://foodish-api.com/images/pasta/pasta22.jpg"
+        },
+        {
+          "name": "Spinach Artichoke Stuffed Shells",
+          "price": 69,
+          "image": "https://foodish-api.com/images/pasta/pasta23.jpg"
+        },
+        {
+          "name": "Butternut Squash Tortellini",
+          "price": 185,
+          "image": "https://foodish-api.com/images/pasta/pasta25.jpg"
+        },
+        {
+          "name": "Creamy Spinach Ravioli",
+          "price": 198,
+          "image": "https://foodish-api.com/images/pasta/pasta26.jpg"
+        },
+        {
+          "name": "Lemon Basil Orzo",
+          "price": 209,
+          "image": "https://foodish-api.com/images/pasta/pasta27.jpg"
+        },
+        {
+          "name": "Zucchini Noodle Primavera",
+          "price": 186,
+          "image": "https://foodish-api.com/images/pasta/pasta28.jpg"
+        },
+        {
+          "name": "Caprese Pasta Salad",
+          "price": 190,
+          "image": "https://foodish-api.com/images/pasta/pasta29.jpg"
+        },
+        {
+          "name": "Cheesy Baked Rigatoni",
+          "price": 188,
+          "image": "https://foodish-api.com/images/pasta/pasta30.jpg"
+        },
+        {
+          "name": "Creamy Pesto Gnocchi",
+          "price": 156,
+          "image": "https://foodish-api.com/images/pasta/pasta31.jpg"
+        },
+        {
+          "name": "Pumpkin Alfredo Penne",
+          "price": 66,
+          "image": "https://foodish-api.com/images/pasta/pasta33.jpg"
+        }
+      ],
+      "non vegetarian": [
+        {
+          "name": "Classic Carbonara",
+          "price": 60,
+          "image": "https://foodish-api.com/images/pasta/pasta1.jpg"
+        },
+        {
+          "name": "Alfredo Supreme",
+          "price": 112,
+          "image": "https://foodish-api.com/images/pasta/pasta3.jpg"
+        },
+        {
+          "name": "Seafood Marinara",
+          "price": 229,
+          "image": "https://foodish-api.com/images/pasta/pasta6.jpg"
+        },
+        {
+          "name": "Rustic Ragu",
+          "price": 130,
+          "image": "https://foodish-api.com/images/pasta/pasta8.jpg"
+        },
+        {
+          "name": "Fiery Diablo",
+          "price": 113,
+          "image": "https://foodish-api.com/images/pasta/pasta13.jpg"
+        },
+        {
+          "name": "Cajun Chicken Fettuccine",
+          "price": 219,
+          "image": "https://foodish-api.com/images/pasta/pasta14.jpg"
+        },
+        {
+          "name": "Four Cheese Fettuccine",
+          "price": 294,
+          "image": "https://foodish-api.com/images/pasta/pasta15.jpg"
+        },
+        {
+          "name": "Sun-dried Pesto Penne",
+          "price": 206,
+          "image": "https://foodish-api.com/images/pasta/pasta16.jpg"
+        },
+        {
+          "name": "Mushroom Marsala Rigatoni",
+          "price": 210,
+          "image": "https://foodish-api.com/images/pasta/pasta17.jpg"
+        },
+        {
+          "name": "Lobster Linguine",
+          "price": 107,
+          "image": "https://foodish-api.com/images/pasta/pasta18.jpg"
+        },
+        {
+          "name": "Wild Mushroom Ravioli",
+          "price": 87,
+          "image": "https://foodish-api.com/images/pasta/pasta19.jpg"
+        },
+        {
+          "name": "Chicken Alfredo Lasagna",
+          "price": 116,
+          "image": "https://foodish-api.com/images/pasta/pasta20.jpg"
+        },
+        {
+          "name": "Shrimp Scampi Linguine",
+          "price": 242,
+          "image": "https://foodish-api.com/images/pasta/pasta32.jpg"
+        },
+        {
+          "name": "Creamy Bacon Mushroom Spaghetti",
+          "price": 195,
+          "image": "https://foodish-api.com/images/pasta/pasta34.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "idly",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Mint-Coriander Idly",
+          "price": 235,
+          "image": "https://foodish-api.com/images/idly/idly1.jpg"
+        },
+        {
+          "name": "Tomato Idly",
+          "price": 148,
+          "image": "https://foodish-api.com/images/idly/idly2.jpg"
+        },
+        {
+          "name": "Spinach Idly",
+          "price": 259,
+          "image": "https://foodish-api.com/images/idly/idly3.jpg"
+        },
+        {
+          "name": "Carrot Idly",
+          "price": 83,
+          "image": "https://foodish-api.com/images/idly/idly4.jpg"
+        },
+        {
+          "name": "Capsicum Idly",
+          "price": 122,
+          "image": "https://foodish-api.com/images/idly/idly5.jpg"
+        },
+        {
+          "name": "Onion Idly",
+          "price": 157,
+          "image": "https://foodish-api.com/images/idly/idly6.jpg"
+        },
+        {
+          "name": "Coconut Idly",
+          "price": 236,
+          "image": "https://foodish-api.com/images/idly/idly7.jpg"
+        },
+        {
+          "name": "Cabbage Idly",
+          "price": 158,
+          "image": "https://foodish-api.com/images/idly/idly8.jpg"
+        },
+        {
+          "name": "Mixed Vegetable Idly",
+          "price": 250,
+          "image": "https://foodish-api.com/images/idly/idly9.jpg"
+        },
+        {
+          "name": "Paneer Idly",
+          "price": 67,
+          "image": "https://foodish-api.com/images/idly/idly10.jpg"
+        },
+        {
+          "name": "Broccoli Idly",
+          "price": 202,
+          "image": "https://foodish-api.com/images/idly/idly11.jpg"
+        },
+        {
+          "name": "Beetroot Idly",
+          "price": 244,
+          "image": "https://foodish-api.com/images/idly/idly12.jpg"
+        },
+        {
+          "name": "Cauliflower Idly",
+          "price": 266,
+          "image": "https://foodish-api.com/images/idly/idly13.jpg"
+        },
+        {
+          "name": "Green Peas Idly",
+          "price": 184,
+          "image": "https://foodish-api.com/images/idly/idly14.jpg"
+        },
+        {
+          "name": "Corn Idly",
+          "price": 72,
+          "image": "https://foodish-api.com/images/idly/idly15.jpg"
+        },
+        {
+          "name": "Bell Pepper Idly",
+          "price": 230,
+          "image": "https://foodish-api.com/images/idly/idly16.jpg"
+        },
+        {
+          "name": "Zucchini Idly",
+          "price": 282,
+          "image": "https://foodish-api.com/images/idly/idly17.jpg"
+        },
+        {
+          "name": "Asparagus Idly",
+          "price": 261,
+          "image": "https://foodish-api.com/images/idly/idly18.jpg"
+        },
+        {
+          "name": "Eggplant Idly",
+          "price": 148,
+          "image": "https://foodish-api.com/images/idly/idly19.jpg"
+        },
+        {
+          "name": "Mushroom Idly",
+          "price": 61,
+          "image": "https://foodish-api.com/images/idly/idly20.jpg"
+        }
+      ],
+      "non vegetarian": [
+        {
+          "name": "Chicken Tikka Idly",
+          "price": 251,
+          "image": "https://foodish-api.com/images/idly/idly21.jpg"
+        },
+        {
+          "name": "Fish Curry Idly",
+          "price": 193,
+          "image": "https://foodish-api.com/images/idly/idly22.jpg"
+        },
+        {
+          "name": "Mutton Keema Idly",
+          "price": 275,
+          "image": "https://foodish-api.com/images/idly/idly23.jpg"
+        },
+        {
+          "name": "Egg Masala Idly",
+          "price": 131,
+          "image": "https://foodish-api.com/images/idly/idly24.jpg"
+        },
+        {
+          "name": "Prawn Idly",
+          "price": 275,
+          "image": "https://foodish-api.com/images/idly/idly25.jpg"
+        },
+        {
+          "name": "Crab Curry Idly",
+          "price": 263,
+          "image": "https://foodish-api.com/images/idly/idly26.jpg"
+        },
+        {
+          "name": "Chicken 65 Idly",
+          "price": 210,
+          "image": "https://foodish-api.com/images/idly/idly27.jpg"
+        },
+        {
+          "name": "Keema Idly",
+          "price": 299,
+          "image": "https://foodish-api.com/images/idly/idly28.jpg"
+        },
+        {
+          "name": "Kadai Chicken Idly",
+          "price": 243,
+          "image": "https://foodish-api.com/images/idly/idly29.jpg"
+        },
+        {
+          "name": "Butter Chicken Idly",
+          "price": 108,
+          "image": "https://foodish-api.com/images/idly/idly30.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "dosa",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Classic Masala Dosa",
+          "price": 110,
+          "image": "https://foodish-api.com/images/dosa/dosa1.jpg"
+        },
+        {
+          "name": "Spicy Chutney Dosa",
+          "price": 113,
+          "image": "https://foodish-api.com/images/dosa/dosa3.jpg"
+        },
+        {
+          "name": "Cheesy Corn Dosa",
+          "price": 183,
+          "image": "https://foodish-api.com/images/dosa/dosa6.jpg"
+        },
+        {
+          "name": "Spinach and Cheese Dosa",
+          "price": 251,
+          "image": "https://foodish-api.com/images/dosa/dosa7.jpg"
+        },
+        {
+          "name": "Onion Uthappam Dosa",
+          "price": 99,
+          "image": "https://foodish-api.com/images/dosa/dosa8.jpg"
+        },
+        {
+          "name": "Paneer Tikka Dosa",
+          "price": 221,
+          "image": "https://foodish-api.com/images/dosa/dosa9.jpg"
+        },
+        {
+          "name": "Tomato Onion Dosa",
+          "price": 152,
+          "image": "https://foodish-api.com/images/dosa/dosa21.jpg"
+        },
+        {
+          "name": "Mushroom Masala Dosa",
+          "price": 187,
+          "image": "https://foodish-api.com/images/dosa/dosa23.jpg"
+        },
+        {
+          "name": "Lentil Stuffed Dosa",
+          "price": 192,
+          "image": "https://foodish-api.com/images/dosa/dosa26.jpg"
+        },
+        {
+          "name": "Vegetable Schezwan Dosa",
+          "price": 242,
+          "image": "https://foodish-api.com/images/dosa/dosa31.jpg"
+        }
+      ],
+      "non vegetarian": [
+        {
+          "name": "Chicken Tikka Dosa",
+          "price": 146,
+          "image": "https://foodish-api.com/images/dosa/dosa11.jpg"
+        },
+        {
+          "name": "Mutton Keema Dosa",
+          "price": 105,
+          "image": "https://foodish-api.com/images/dosa/dosa12.jpg"
+        },
+        {
+          "name": "Egg Masala Dosa",
+          "price": 113,
+          "image": "https://foodish-api.com/images/dosa/dosa15.jpg"
+        },
+        {
+          "name": "Prawn Curry Dosa",
+          "price": 270,
+          "image": "https://foodish-api.com/images/dosa/dosa17.jpg"
+        },
+        {
+          "name": "Fish Fry Dosa",
+          "price": 269,
+          "image": "https://foodish-api.com/images/dosa/dosa18.jpg"
+        },
+        {
+          "name": "Chicken Kebab Dosa",
+          "price": 244,
+          "image": "https://foodish-api.com/images/dosa/dosa16.jpg"
+        },
+        {
+          "name": "Chilli Chicken Dosa",
+          "price": 268,
+          "image": "https://foodish-api.com/images/dosa/dosa34.jpg"
+        },
+        {
+          "name": "Egg Bhurji Dosa",
+          "price": 250,
+          "image": "https://foodish-api.com/images/dosa/dosa36.jpg"
+        },
+        {
+          "name": "Butter Chicken Dosa",
+          "price": 283,
+          "image": "https://foodish-api.com/images/dosa/dosa43.jpg"
+        },
+        {
+          "name": "Tandoori Chicken Dosa",
+          "price": 275,
+          "image": "https://foodish-api.com/images/dosa/dosa64.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "burger",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Veggie Delight Burger",
+          "price": 185,
+          "image": "https://foodish-api.com/images/burger/burger1.jpg"
+        },
+        {
+          "name": "Paneer Tikka Burger",
+          "price": 235,
+          "image": "https://foodish-api.com/images/burger/burger2.jpg"
+        },
+        {
+          "name": "Classic Veg Burger",
+          "price": 122,
+          "image": "https://foodish-api.com/images/burger/burger3.jpg"
+        },
+        {
+          "name": "Spicy Potato Burger",
+          "price": 232,
+          "image": "https://foodish-api.com/images/burger/burger4.jpg"
+        },
+        {
+          "name": "Mushroom Swiss Burger",
+          "price": 145,
+          "image": "https://foodish-api.com/images/burger/burger5.jpg"
+        },
+        {
+          "name": "Grilled Veggie Burger",
+          "price": 126,
+          "image": "https://foodish-api.com/images/burger/burger6.jpg"
+        },
+        {
+          "name": "Spinach and Feta Burger",
+          "price": 218,
+          "image": "https://foodish-api.com/images/burger/burger7.jpg"
+        },
+        {
+          "name": "Zucchini Corn Burger",
+          "price": 112,
+          "image": "https://foodish-api.com/images/burger/burger8.jpg"
+        },
+        {
+          "name": "Chickpea Quinoa Burger",
+          "price": 137,
+          "image": "https://foodish-api.com/images/burger/burger9.jpg"
+        },
+        {
+          "name": "Veggie Bean Burger",
+          "price": 250,
+          "image": "https://foodish-api.com/images/burger/burger10.jpg"
+        }
+      ],
+      "non vegetarian": [
+        {
+          "name": "Classic Chicken Burger",
+          "price": 67,
+          "image": "https://foodish-api.com/images/burger/burger11.jpg"
+        },
+        {
+          "name": "Grilled Chicken Burger",
+          "price": 105,
+          "image": "https://foodish-api.com/images/burger/burger12.jpg"
+        },
+        {
+          "name": "Chicken Cheese Burger",
+          "price": 64,
+          "image": "https://foodish-api.com/images/burger/burger13.jpg"
+        },
+        {
+          "name": "BBQ Bacon Burger",
+          "price": 90,
+          "image": "https://foodish-api.com/images/burger/burger14.jpg"
+        },
+        {
+          "name": "Spicy Sriracha Chicken Burger",
+          "price": 58,
+          "image": "https://foodish-api.com/images/burger/burger15.jpg"
+        },
+        {
+          "name": "Double Beef Burger",
+          "price": 285,
+          "image": "https://foodish-api.com/images/burger/burger16.jpg"
+        },
+        {
+          "name": "Bacon Ranch Burger",
+          "price": 64,
+          "image": "https://foodish-api.com/images/burger/burger17.jpg"
+        },
+        {
+          "name": "Turkey Avocado Burger",
+          "price": 245,
+          "image": "https://foodish-api.com/images/burger/burger18.jpg"
+        },
+        {
+          "name": "Fish Fillet Burger",
+          "price": 250,
+          "image": "https://foodish-api.com/images/burger/burger19.jpg"
+        },
+        {
+          "name": "Pulled Pork Burger",
+          "price": 54,
+          "image": "https://foodish-api.com/images/burger/burger20.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "biryani",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Classic Vegetable Biryani",
+          "price": 114,
+          "image": "https://foodish-api.com/images/biryani/biryani1.jpg"
+        },
+        {
+          "name": "Hyderabadi Veg Biryani",
+          "price": 62,
+          "image": "https://foodish-api.com/images/biryani/biryani2.jpg"
+        },
+        {
+          "name": "Paneer Tikka Biryani",
+          "price": 238,
+          "image": "https://foodish-api.com/images/biryani/biryani3.jpg"
+        },
+        {
+          "name": "Mushroom Biryani",
+          "price": 220,
+          "image": "https://foodish-api.com/images/biryani/biryani4.jpg"
+        },
+        {
+          "name": "Soybean Biryani",
+          "price": 89,
+          "image": "https://foodish-api.com/images/biryani/biryani5.jpg"
+        },
+        {
+          "name": "Spinach and Potato Biryani",
+          "price": 235,
+          "image": "https://foodish-api.com/images/biryani/biryani6.jpg"
+        },
+        {
+          "name": "Mixed Vegetable Biryani",
+          "price": 287,
+          "image": "https://foodish-api.com/images/biryani/biryani7.jpg"
+        },
+        {
+          "name": "Corn and Peas Biryani",
+          "price": 200,
+          "image": "https://foodish-api.com/images/biryani/biryani8.jpg"
+        },
+        {
+          "name": "Aloo Biryani",
+          "price": 273,
+          "image": "https://foodish-api.com/images/biryani/biryani9.jpg"
+        },
+        {
+          "name": "Veg Dum Biryani",
+          "price": 132,
+          "image": "https://foodish-api.com/images/biryani/biryani10.jpg"
+        }
+      ],
+      "non vegetarian": [
+        {
+          "name": "Chicken Biryani",
+          "price": 78,
+          "image": "https://foodish-api.com/images/biryani/biryani11.jpg"
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 68,
+          "image": "https://foodish-api.com/images/biryani/biryani12.jpg"
+        },
+        {
+          "name": "Prawn Biryani",
+          "price": 139,
+          "image": "https://foodish-api.com/images/biryani/biryani13.jpg"
+        },
+        {
+          "name": "Fish Biryani",
+          "price": 179,
+          "image": "https://foodish-api.com/images/biryani/biryani14.jpg"
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 125,
+          "image": "https://foodish-api.com/images/biryani/biryani15.jpg"
+        },
+        {
+          "name": "Keema Biryani",
+          "price": 191,
+          "image": "https://foodish-api.com/images/biryani/biryani16.jpg"
+        },
+        {
+          "name": "Pakistani Beef Biryani",
+          "price": 271,
+          "image": "https://foodish-api.com/images/biryani/biryani17.jpg"
+        },
+        {
+          "name": "Hyderabadi Chicken Biryani",
+          "price": 236,
+          "image": "https://foodish-api.com/images/biryani/biryani18.jpg"
+        },
+        {
+          "name": "Goat Biryani",
+          "price": 189,
+          "image": "https://foodish-api.com/images/biryani/biryani19.jpg"
+        },
+        {
+          "name": "Duck Biryani",
+          "price": 120,
+          "image": "https://foodish-api.com/images/biryani/biryani20.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "desserts",
+    "data": {
+      "vegetarian": [
+        {
+          "id": 1,
+          "name": "Choco Sundae",
+          "price": 2,
+          "description": "Choco Sundae Cup (100 ml)",
+          "image": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Choco%20Sundae__0.webp?itok=Md5Ameuw"
+        },
+        {
+          "id": 2,
+          "name": "Cornetto Double Chocolate",
+          "price": 2,
+          "description": "Cornetto Double Chocolate Cone (105 ml)",
+          "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/cornetto-double-chocolate.acc21849ac732f2f85998ad73e532d40.1.jpg?width=522"
+        },
+        {
+          "id": 3,
+          "name": "Magnum Truffle",
+          "price": 4,
+          "description": "Magnum Truffle (80 ml)",
+          "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=480,h=480/app/images/products/sliding_image/450560a.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Divine Chocolate(Tub)",
+          "price": 6,
+          "description": "Divine Chocolate (700 ml)",
+          "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/divine-chocolate-tub.1df6b11e6e5d510cd11ae0d6e475686d.1.jpg?width=522"
+        },
+        {
+          "id": 5,
+          "name": "Choco Volcano Cake",
+          "price": 6,
+          "description": "Choco Delight With A Gooey Chocolate Volcano Centre",
+          "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/choco-volcano-cake.f829dc6e30a07b83f232b4880395162f.1.jpg"
+        },
+        {
+          "name": "Chocolate Cake",
+          "price": 153,
+          "image": "https://foodish-api.com/images/dessert/dessert1.jpg"
+        },
+        {
+          "name": "Cheesecake",
+          "price": 111,
+          "image": "https://foodish-api.com/images/dessert/dessert2.jpg"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 197,
+          "image": "https://foodish-api.com/images/dessert/dessert3.jpg"
+        },
+        {
+          "name": "Fruit Tart",
+          "price": 118,
+          "image": "https://foodish-api.com/images/dessert/dessert4.jpg"
+        },
+        {
+          "name": "Strawberry Shortcake",
+          "price": 194,
+          "image": "https://foodish-api.com/images/dessert/dessert5.jpg"
+        },
+        {
+          "name": "Panna Cotta",
+          "price": 133,
+          "image": "https://foodish-api.com/images/dessert/dessert6.jpg"
+        },
+        {
+          "name": "Macarons",
+          "price": 129,
+          "image": "https://foodish-api.com/images/dessert/dessert7.jpg"
+        },
+        {
+          "name": "Lemon Meringue Pie",
+          "price": 148,
+          "image": "https://foodish-api.com/images/dessert/dessert8.jpg"
+        },
+        {
+          "name": "Brownie Sundae",
+          "price": 279,
+          "image": "https://foodish-api.com/images/dessert/dessert9.jpg"
+        },
+        {
+          "name": "Red Velvet Cupcake",
+          "price": 135,
+          "image": "https://foodish-api.com/images/dessert/dessert10.jpg"
+        },
+        {
+          "name": "Key Lime Pie",
+          "price": 295,
+          "image": "https://foodish-api.com/images/dessert/dessert11.jpg"
+        },
+        {
+          "name": "Banoffee Pie",
+          "price": 144,
+          "image": "https://foodish-api.com/images/dessert/dessert12.jpg"
+        },
+        {
+          "name": "Chocolate Chip Cookies",
+          "price": 104,
+          "image": "https://foodish-api.com/images/dessert/dessert13.jpg"
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "price": 188,
+          "image": "https://foodish-api.com/images/dessert/dessert14.jpg"
+        },
+        {
+          "name": "Blueberry Pie",
+          "price": 68,
+          "image": "https://foodish-api.com/images/dessert/dessert15.jpg"
+        },
+        {
+          "name": "Fudge Brownie",
+          "price": 68,
+          "image": "https://foodish-api.com/images/dessert/dessert16.jpg"
+        },
+        {
+          "name": "Peach Cobbler",
+          "price": 286,
+          "image": "https://foodish-api.com/images/dessert/dessert17.jpg"
+        },
+        {
+          "name": "Raspberry Sorbet",
+          "price": 58,
+          "image": "https://foodish-api.com/images/dessert/dessert18.jpg"
+        },
+        {
+          "name": "Carrot Cake",
+          "price": 300,
+          "image": "https://foodish-api.com/images/dessert/dessert19.jpg"
+        },
+        {
+          "name": "Lava Cake",
+          "price": 191,
+          "image": "https://foodish-api.com/images/dessert/dessert20.jpg"
+        },
+        {
+          "name": "Chocolate Mousse",
+          "price": 277,
+          "image": "https://foodish-api.com/images/dessert/dessert21.jpg"
+        },
+        {
+          "name": "Baklava",
+          "price": 264,
+          "image": "https://foodish-api.com/images/dessert/dessert22.jpg"
+        },
+        {
+          "name": "Apple Crumble",
+          "price": 172,
+          "image": "https://foodish-api.com/images/dessert/dessert23.jpg"
+        },
+        {
+          "name": "Lemon Drizzle Cake",
+          "price": 247,
+          "image": "https://foodish-api.com/images/dessert/dessert24.jpg"
+        },
+        {
+          "name": "Creme Brulee",
+          "price": 247,
+          "image": "https://foodish-api.com/images/dessert/dessert25.jpg"
+        },
+        {
+          "name": "Pavlova",
+          "price": 162,
+          "image": "https://foodish-api.com/images/dessert/dessert26.jpg"
+        },
+        {
+          "name": "Cherry Pie",
+          "price": 251,
+          "image": "https://foodish-api.com/images/dessert/dessert27.jpg"
+        },
+        {
+          "name": "Gelato",
+          "price": 72,
+          "image": "https://foodish-api.com/images/dessert/dessert28.jpg"
+        },
+        {
+          "name": "Eclair",
+          "price": 102,
+          "image": "https://foodish-api.com/images/dessert/dessert29.jpg"
+        },
+        {
+          "name": "Banana Split",
+          "price": 213,
+          "image": "https://foodish-api.com/images/dessert/dessert30.jpg"
+        },
+        {
+          "name": "Pumpkin Pie",
+          "price": 93,
+          "image": "https://foodish-api.com/images/dessert/dessert31.jpg"
+        },
+        {
+          "name": "Biscotti",
+          "price": 99,
+          "image": "https://foodish-api.com/images/dessert/dessert32.jpg"
+        },
+        {
+          "name": "Angel Food Cake",
+          "price": 65,
+          "image": "https://foodish-api.com/images/dessert/dessert33.jpg"
+        },
+        {
+          "name": "Rice Pudding",
+          "price": 148,
+          "image": "https://foodish-api.com/images/dessert/dessert34.jpg"
+        },
+        {
+          "name": "Mango Sorbet",
+          "price": 151,
+          "image": "https://foodish-api.com/images/dessert/dessert35.jpg"
+        },
+        {
+          "name": "Cannoli",
+          "price": 194,
+          "image": "https://foodish-api.com/images/dessert/dessert36.jpg"
+        }
+      ],
+      "non vegetarian":[]
+    }
+  },
+  {
+    "name": "butter chicken",
+    "data": {
+      "vegetarian":[],
+      "non vegetarian": [
+        {
+          "name": "Butter Chicken Delight",
+          "price": 231,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken1.jpg"
+        },
+        {
+          "name": "Spicy Butter Chicken",
+          "price": 290,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken2.jpg"
+        },
+        {
+          "name": "Classic Butter Chicken",
+          "price": 85,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken3.jpg"
+        },
+        {
+          "name": "Butter Chicken Feast",
+          "price": 150,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken4.jpg"
+        },
+        {
+          "name": "Creamy Butter Chicken",
+          "price": 246,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken5.jpg"
+        },
+        {
+          "name": "Butter Chicken Supreme",
+          "price": 98,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken6.jpg"
+        },
+        {
+          "name": "Butter Chicken Delicacy",
+          "price": 159,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken7.jpg"
+        },
+        {
+          "name": "Savory Butter Chicken",
+          "price": 127,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken8.jpg"
+        },
+        {
+          "name": "Butter Chicken Royale",
+          "price": 113,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken9.jpg"
+        },
+        {
+          "name": "Butter Chicken Bliss",
+          "price": 165,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken10.jpg"
+        },
+        {
+          "name": "Tender Butter Chicken",
+          "price": 67,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken11.jpg"
+        },
+        {
+          "name": "Butter Chicken Fusion",
+          "price": 223,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken12.jpg"
+        },
+        {
+          "name": "Butter Chicken Extravaganza",
+          "price": 236,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken13.jpg"
+        },
+        {
+          "name": "Gourmet Butter Chicken",
+          "price": 300,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken14.jpg"
+        },
+        {
+          "name": "Homestyle Butter Chicken",
+          "price": 100,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken15.jpg"
+        },
+        {
+          "name": "Butter Chicken Temptation",
+          "price": 291,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken16.jpg"
+        },
+        {
+          "name": "Butter Chicken Sensation",
+          "price": 116,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken17.jpg"
+        },
+        {
+          "name": "Butter Chicken Carnival",
+          "price": 201,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken18.jpg"
+        },
+        {
+          "name": "Butter Chicken Celebration",
+          "price": 251,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken19.jpg"
+        },
+        {
+          "name": "Butter Chicken Delight",
+          "price": 164,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken20.jpg"
+        },
+        {
+          "name": "Butter Chicken Euphoria",
+          "price": 259,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken21.jpg"
+        },
+        {
+          "name": "Butter Chicken Fiesta",
+          "price": 63,
+          "image": "https://foodish-api.com/images/butter-chicken/butter-chicken22.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "chinese",
+    "data": {
+      "vegetarian": [
+        {
+          "name": "Veg Chaw Mein",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/1.jpg",
+          "price": 39
+        },
+        {
+          "name": "Spicy Szechuan Hakka noodles",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/2.jpg",
+          "price": 49
+        },
+        {
+          "name": "Veggie Spring Roll Salad",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/3.jpg",
+          "price": 59
+        },
+        {
+          "name": "Crispy Lettuce Wraps",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/4.jpg",
+          "price": 69
+        },
+        {
+          "name": "Garlic Ginger Broccoli Stir Fry",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/5.jpg",
+          "price": 79
+        },
+        {
+          "name": "Vegan Kung Pao",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/6.jpg",
+          "price": 89
+        },
+        {
+          "name": "Coconut Curry Ramen",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/7.jpg",
+          "price": 99
+        },
+        {
+          "name": "Sweet and Sour Tempeh",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/8.jpg",
+          "price": 109
+        },
+        {
+          "name": "Veggie Fried Rice",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/9.jpg",
+          "price": 119
+        },
+        {
+          "name": "Spicy Vegan Mapo",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/10.jpg",
+          "price": 129
+        },
+        {
+          "name": "Soy Ginger Glazed Brussels Sprouts",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/11.jpg",
+          "price": 139
+        },
+        {
+          "name": "Vegan Moo Shu Vegetables",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/12.jpg",
+          "price": 149
+        },
+        {
+          "name": "Crispy Orange Cauliflower",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/13.jpg",
+          "price": 159
+        },
+        {
+          "name": "Vegetable Lo Mein",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/14.jpg",
+          "price": 169
+        },
+        {
+          "name": "Vegan General Tsoji",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/15.jpg",
+          "price": 179
+        },
+        {
+          "name": "Spicy Sichuan Green Beans",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/16.jpg",
+          "price": 189
+        },
+        {
+          "name": "Vegan Thai Peanut Noodles",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/17.jpg",
+          "price": 199
+        },
+        {
+          "name": "Crispy Tofu in Garlic Sauce",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/18.jpg",
+          "price": 209
+        },
+        {
+          "name": "Vegan Teriyaki Mushroom Bowls",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/19.jpg",
+          "price": 219
+        },
+        {
+          "name": "Vegetable Chow Mein",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/20.jpg",
+          "price": 229
+        }
+      ],
+      "non vegetarian": [
+        {
+          "id": "2",
+          "name": "Chinese-style beef noodles",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/22.jpg",
+          "price": 2
+        },
+        {
+          "id": "4",
+          "name": "Char siu pork belly",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/24.jpg",
+          "price": 1
+        },
+        {
+          "id": "7",
+          "name": "Sweet and sour pork with pineapple",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/27.jpg",
+          "price": 4
+        },
+        {
+          "id": "8",
+          "name": "Soy and honey chicken skewers",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/82.jpg",
+          "price": 2
+        },
+        {
+          "id": "15",
+          "name": "Sticky soy and honey pork ribs",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/115.jpg",
+          "price": 4
+        },
+        {
+          "id": "20",
+          "name": "Black bean beef",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/70.jpg",
+          "price": 1
+        },
+        {
+          "id": "26",
+          "name": "Pork with star anise and ginger",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/26.jpg",
+          "price": 1
+        },
+        {
+          "id": "28",
+          "name": "Black bean beef and broccolini stir-fry",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/28.jpg",
+          "price": 1
+        },
+        {
+          "id": "34",
+          "name": "Slow-cooked soy and ginger beef brisket",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/34.jpg",
+          "price": 1
+        },
+        {
+          "id": "40",
+          "name": "Chicken and cashew nut stir-fry",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/40.jpg",
+          "price": 1
+        },
+        {
+          "id": "44",
+          "name": "Shrimp with cashew nuts",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/44.jpg",
+          "price": 1
+        },
+        {
+          "id": "50",
+          "name": "Soy-glazed chicken thighs",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/50.jpg",
+          "price": 1
+        },
+        {
+          "id": "54",
+          "name": "Honey and soy chicken wings",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/54.jpg",
+          "price": 1
+        },
+        {
+          "id": "58",
+          "name": "Pork belly steamed buns",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/58.jpg",
+          "price": 1
+        },
+        {
+          "id": "60",
+          "name": "Five-spice chicken and mango salad",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/60.jpg",
+          "price": 1
+        },
+        {
+          "id": "66",
+          "name": "Chilli and garlic prawns with oyster sauce and Asian greens",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/66.jpg",
+          "price": 1
+        },
+        {
+          "id": "72",
+          "name": "Honey and soy pork stir-fry",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/72.jpg",
+          "price": 1
+        },
+        {
+          "id": "78",
+          "name": "Beef and black bean stir-fry",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/78.jpg",
+          "price": 1
+        },
+        {
+          "id": "82",
+          "name": "Honey and soy-glazed salmon",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/82.jpg",
+          "price": 1
+        },
+        {
+          "id": "86",
+          "name": "Chinese-style crispy pork with fried rice",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/86.jpg",
+          "price": 1
+        },
+        {
+          "id": "92",
+          "name": "Peking duck salad with hoisin dressing",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/92.jpg",
+          "price": 1
+        },
+        {
+          "id": "98",
+          "name": "Prawn fried rice",
+          "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/98.jpg",
+          "price": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "cakes",
+    "data": {
+      "vegetarian": [
+        {
+          "id": "1",
+          "name": "Raspberry and custard muffins",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/1.jpg",
+          "price": 5
+        },
+        {
+          "id": "2",
+          "name": "Lemon and blackberry stripe cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/2.jpg",
+          "price": 3
+        },
+        {
+          "id": "3",
+          "name": "Paul Hollywood’s chocolate fudge cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/3.jpg",
+          "price": 2
+        },
+        {
+          "id": "4",
+          "name": "Lemon and strawberry meringue cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/4.jpg",
+          "price": 4
+        },
+        {
+          "id": "5",
+          "name": "Vegan chocolate cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/5.jpg",
+          "price": 5
+        },
+        {
+          "id": "6",
+          "name": "Spiced plum cake with swiss meringue frosting",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/6.jpg",
+          "price": 1
+        },
+        {
+          "id": "7",
+          "name": "Lemon and courgette cake with white chocolate cream cheese frosting",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/7.jpg",
+          "price": 4
+        },
+        {
+          "id": "8",
+          "name": "Chocolate cake with caramel poached pears and chocolate buttercream",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/8.jpg",
+          "price": 2
+        },
+        {
+          "id": "9",
+          "name": "Rhubarb and custard layer cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/9.jpg",
+          "price": 4
+        },
+        {
+          "id": "10",
+          "name": "Spring lamb cupcakes",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/10.jpg",
+          "price": 5
+        },
+        {
+          "id": "11",
+          "name": "Peanut butter drip cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/11.jpg",
+          "price": 2
+        },
+        {
+          "id": "12",
+          "name": "Ginger drizzle traybake with cream cheese icing",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/12.jpg",
+          "price": 2
+        },
+        {
+          "id": "13",
+          "name": "Baked lemon cheesecake with pineapple flowers",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/13.jpg",
+          "price": 4
+        },
+        {
+          "id": "14",
+          "name": "Carrot and cheesecake layer cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/14.jpg",
+          "price": 5
+        },
+        {
+          "id": "15",
+          "name": "Sugarplum fairy cakes",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/15.jpg",
+          "price": 2
+        },
+        {
+          "id": "16",
+          "name": "Summer-cup bundt drizzle cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/16.jpg",
+          "price": 4
+        },
+        {
+          "id": "17",
+          "name": "St Clement’s squares",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/17.jpg",
+          "price": 1
+        },
+        {
+          "id": "18",
+          "name": "Caramelised white chocolate, burnt butter and tahini cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/18.jpg",
+          "price": 1
+        },
+        {
+          "id": "19",
+          "name": "Eric Lanlard’s carrot and pumpkin celebration cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/19.jpg",
+          "price": 1
+        },
+        {
+          "id": "20",
+          "name": "Tunnock’s teacake traybake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/20.jpg",
+          "price": 5
+        },
+        {
+          "id": "21",
+          "name": "Easy butterfly cakes",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/21.jpg",
+          "price": 4
+        },
+        {
+          "id": "22",
+          "name": "Chocolate cupcakes",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/22.jpg",
+          "price": 1
+        },
+        {
+          "id": "23",
+          "name": "Orange blossom, lemon thyme and almond cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/23.jpg",
+          "price": 3
+        },
+        {
+          "id": "24",
+          "name": "Eton mess traybake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/24.jpg",
+          "price": 5
+        },
+        {
+          "id": "25",
+          "name": "Nut-free carrot cupcakes",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/25.jpg",
+          "price": 3
+        },
+        {
+          "id": "26",
+          "name": "Raspberry and lemon sponge cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/26.jpg",
+          "price": 2
+        },
+        {
+          "id": "27",
+          "name": "Strawberry and rose victoria sponge sandwich",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/27.jpg",
+          "price": 4
+        },
+        {
+          "id": "28",
+          "name": "Toffee ice-cream cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/28.jpg",
+          "price": 1
+        },
+        {
+          "id": "29",
+          "name": "Easy flourless chocolate cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/29.jpg",
+          "price": 5
+        },
+        {
+          "id": "30",
+          "name": "Sticky toffee pudding cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/30.jpg",
+          "price": 3
+        },
+        {
+          "id": "31",
+          "name": "Frozen lemon and blueberry mousse cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/31.jpg",
+          "price": 3
+        },
+        {
+          "id": "32",
+          "name": "Secret-ingredient chocolate bundt cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/32.jpg",
+          "price": 2
+        },
+        {
+          "id": "33",
+          "name": "White forest gateau",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/33.jpg",
+          "price": 1
+        },
+        {
+          "id": "34",
+          "name": "Ginger and honey biscuit cake with choc-orange icing",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/34.jpg",
+          "price": 2
+        },
+        {
+          "id": "35",
+          "name": "Giant Jaffa cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/35.jpg",
+          "price": 3
+        },
+        {
+          "id": "36",
+          "name": "Eric Lanlard’s clementine and pomegranate cake (gluten-free)",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/36.jpg",
+          "price": 2
+        },
+        {
+          "id": "37",
+          "name": "Coconut and lime angel cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/37.jpg",
+          "price": 2
+        },
+        {
+          "id": "38",
+          "name": "Daim bar layer cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/38.jpg",
+          "price": 5
+        },
+        {
+          "id": "39",
+          "name": "Elderflower, lemon and cherry cream flourless cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/39.jpg",
+          "price": 4
+        },
+        {
+          "id": "40",
+          "name": "Chetna Makan’s pistachio, cardamom and white chocolate cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/40.jpg",
+          "price": 5
+        },
+        {
+          "id": "41",
+          "name": "Simple buttercream icing",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/41.jpg",
+          "price": 3
+        },
+        {
+          "id": "42",
+          "name": "Chocolate porter cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/42.jpg",
+          "price": 3
+        },
+        {
+          "id": "43",
+          "name": "Triple-chocolate layer cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/43.jpg",
+          "price": 4
+        },
+        {
+          "id": "44",
+          "name": "Chocolate cola cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/44.jpg",
+          "price": 2
+        },
+        {
+          "id": "45",
+          "name": "Gluten-free chocolate cake with raspberries",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/45.jpg",
+          "price": 2
+        },
+        {
+          "id": "46",
+          "name": "Pop cakes",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/46.jpg",
+          "price": 1
+        },
+        {
+          "id": "47",
+          "name": "Mary Berry’s malted chocolate cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/47.jpg",
+          "price": 1
+        },
+        {
+          "id": "48",
+          "name": "Chocolate celebration layer cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/48.jpg",
+          "price": 3
+        },
+        {
+          "id": "49",
+          "name": "Apple caramel layer cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/49.jpg",
+          "price": 2
+        },
+        {
+          "id": "50",
+          "name": "Red velvet cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/50.jpg",
+          "price": 2
+        },
+        {
+          "id": "51",
+          "name": "Paul Hollywood’s ultimate carrot cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/51.jpg",
+          "price": 5
+        },
+        {
+          "id": "52",
+          "name": "Mary Berry’s very best chocolate and orange cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/52.jpg",
+          "price": 1
+        },
+        {
+          "id": "53",
+          "name": "Classic sponge cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/53.jpg",
+          "price": 5
+        }
+      ],
+      "non vegetaian": [
+        {
+          "id": "54",
+          "name": "Gluten-free birthday cake sponge",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/54.jpg",
+          "price": 5
+        },
+        {
+          "id": "55",
+          "name": "Ultimate chocolate mousse cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/55.jpg",
+          "price": 1
+        },
+        {
+          "id": "56",
+          "name": "Lavender cupcakes",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/56.jpg",
+          "price": 4
+        },
+        {
+          "id": "57",
+          "name": "Chocolate and berry traybake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/57.jpg",
+          "price": 1
+        },
+        {
+          "id": "58",
+          "name": "Easy coconut and chocolate cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/58.jpg",
+          "price": 2
+        },
+        {
+          "id": "59",
+          "name": "Lemon and coconut cake",
+          "image": "https://apipics.s3.amazonaws.com/cakes_api/59.jpg",
+          "price": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "cocktails",
+    "data": {
+      "vegetarian": [
+        {
+          "id": "1",
+          "name": "Nutella and cognac coffee cocktail",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/1.jpg",
+          "price": 4
+        },
+        {
+          "id": "2",
+          "name": "Easy rhubarb cordial",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/2.jpg",
+          "price": 5
+        },
+        {
+          "id": "3",
+          "name": "Bottled chocolate orange negroni",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/3.jpg",
+          "price": 1
+        },
+        {
+          "id": "4",
+          "name": "Pickled bramble martini",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/4.jpg",
+          "price": 3
+        },
+        {
+          "id": "5",
+          "name": "Toasted marshmallow hot-buttered rum",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/5.jpg",
+          "price": 5
+        },
+        {
+          "id": "6",
+          "name": "Sangria",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/6.jpg",
+          "price": 4
+        },
+        {
+          "id": "7",
+          "name": "Umibozu yuzu cocktail",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/7.jpg",
+          "price": 4
+        },
+        {
+          "id": "8",
+          "name": "Strawberry collins",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/8.jpg",
+          "price": 4
+        },
+        {
+          "id": "9",
+          "name": "Limoncello spritz",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/9.jpg",
+          "price": 1
+        },
+        {
+          "id": "10",
+          "name": "Ginger mango mule",
+          "difficulty": "Medium",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/10.jpg",
+          "price": 5
+        },
+        {
+          "id": "11",
+          "name": "Platinum Jubilee gin punch",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/11.jpg",
+          "price": 3
+        },
+        {
+          "id": "12",
+          "name": "Pink Gibson cocktail",
+          "difficulty": "Medium",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/12.jpg",
+          "price": 1
+        },
+        {
+          "id": "13",
+          "name": "Rhubarb and ginger cocktail",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/13.jpg",
+          "price": 3
+        },
+        {
+          "id": "14",
+          "name": "Jerry Thomas Manhattan",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/14.jpg",
+          "price": 2
+        },
+        {
+          "id": "15",
+          "name": "Hibiscus and kombucha sparkling mocktail",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/15.jpg",
+          "price": 3
+        },
+        {
+          "id": "16",
+          "name": "Fifth Avenue daiquiri",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/16.jpg",
+          "price": 5
+        },
+        {
+          "id": "17",
+          "name": "Sherry spritz",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/17.jpg",
+          "price": 1
+        },
+        {
+          "id": "18",
+          "name": "Large espresso martini for a crowd",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/18.jpg",
+          "price": 3
+        },
+        {
+          "id": "19",
+          "name": "Pornstar martini",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/19.jpg",
+          "price": 3
+        },
+        {
+          "id": "20",
+          "name": "Whisky sour",
+          "difficulty": "Medium",
+          "image": "https://apipics.s3.amazonaws.com/coctails_api/20.jpg",
+          "price": 5
+        }
+      ],
+      "non vegetarian":[]
+    }
+  }
+]

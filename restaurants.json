@@ -1,0 +1,1875 @@
+[
+    {
+        "name": "Smith Ltd",
+        "location": "9200, Jonathon Run, Faridabad, 121003, India",
+        "rating": 4.8,
+        "menu": [
+            "burger",
+            "butter chicken",
+            "cakes",
+            "idly",
+            "cocktails",
+            "chinese",
+            "dosa"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "3.5 km"
+    },
+    {
+        "name": "Richards and Sons",
+        "location": "89365, Francisco Mountains, Faridabad, 121009, India",
+        "rating": 3.7,
+        "menu": [
+            "idly",
+            "pizza",
+            "chinese",
+            "pasta",
+            "cocktails",
+            "desserts",
+            "dosa",
+            "biryani",
+            "cakes",
+            "burger",
+            "butter chicken",
+            "samosa",
+            "rice"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "4.8 km"
+    },
+    {
+        "name": "Adams, Mitchell and Young",
+        "location": "657, Juan Squares, Faridabad, 121007, India",
+        "rating": 4.3,
+        "menu": [
+            "desserts",
+            "samosa",
+            "cocktails",
+            "butter chicken",
+            "idly",
+            "cakes",
+            "burger",
+            "rice",
+            "pasta",
+            "biryani",
+            "pizza",
+            "dosa",
+            "chinese"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "0.1 km"
+    },
+    {
+        "name": "Manning-Kelly",
+        "location": "32111, Graves Flat, Faridabad, 110044, India",
+        "rating": 4.5,
+        "menu": [
+            "idly",
+            "pizza",
+            "chinese",
+            "biryani",
+            "rice",
+            "desserts",
+            "pasta",
+            "cocktails",
+            "burger"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "0.5 km"
+    },
+    {
+        "name": "Collins Ltd",
+        "location": "0023, Nguyen Ferry, Faridabad, 121006, India",
+        "rating": 4.1,
+        "menu": [
+            "biryani",
+            "pasta",
+            "cocktails",
+            "butter chicken",
+            "samosa",
+            "rice",
+            "dosa",
+            "idly",
+            "burger",
+            "cakes",
+            "chinese",
+            "pizza",
+            "desserts"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "2.3 km"
+    },
+    {
+        "name": "Hess, Rollins and Blackwell",
+        "location": "225, Rickey Courts, Faridabad, 121004, India",
+        "rating": 3.4,
+        "menu": [
+            "biryani",
+            "pasta",
+            "idly",
+            "rice",
+            "samosa",
+            "cocktails",
+            "cakes",
+            "chinese",
+            "burger",
+            "desserts",
+            "dosa",
+            "pizza",
+            "butter chicken"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "0.3 km"
+    },
+    {
+        "name": "Love-Johnston",
+        "location": "4635, James Trail, Faridabad, 121009, India",
+        "rating": 3.7,
+        "menu": [
+            "pizza",
+            "pasta",
+            "burger",
+            "samosa",
+            "idly",
+            "cocktails",
+            "dosa"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "6.8 km"
+    },
+    {
+        "name": "Trujillo-Washington",
+        "location": "644, Ashley Mall, Faridabad, 101213, India",
+        "rating": 3.8,
+        "menu": [
+            "pizza",
+            "burger",
+            "pasta",
+            "rice",
+            "biryani",
+            "chinese",
+            "idly",
+            "butter chicken",
+            "desserts",
+            "cakes"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "1.1 km"
+    },
+    {
+        "name": "Gray, Martinez and Russell",
+        "location": "79498, Karen Meadow, Faridabad, 121008, India",
+        "rating": 4.2,
+        "menu": [
+            "dosa",
+            "idly",
+            "chinese",
+            "pizza",
+            "cakes",
+            "butter chicken"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "1.7 km"
+    },
+    {
+        "name": "Ryan-Carter",
+        "location": "85629, Tanner Brooks, Faridabad, 121013, India",
+        "rating": 3.1,
+        "menu": [
+            "dosa",
+            "biryani",
+            "desserts",
+            "cakes",
+            "pasta",
+            "cocktails",
+            "burger",
+            "rice",
+            "chinese",
+            "idly",
+            "samosa",
+            "pizza",
+            "butter chicken"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "4.7 km"
+    },
+    {
+        "name": "Cain, Cook and Reyes",
+        "location": "20210, Carroll Ford, Faridabad, 121009, India",
+        "rating": 3.7,
+        "menu": [
+            "dosa",
+            "biryani",
+            "pasta",
+            "idly",
+            "rice",
+            "chinese",
+            "samosa",
+            "pizza",
+            "cakes",
+            "butter chicken"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "3.7 km"
+    },
+    {
+        "name": "Roman-Mitchell",
+        "location": "217, Robinson Fields, Faridabad, 121012, India",
+        "rating": 4.8,
+        "menu": [
+            "rice",
+            "cocktails",
+            "samosa",
+            "desserts",
+            "dosa",
+            "burger"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "7.3 km"
+    },
+    {
+        "name": "Davis-Carr",
+        "location": "805, Anthony Route, Faridabad, 101213, India",
+        "rating": 4.4,
+        "menu": [
+            "dosa",
+            "desserts",
+            "butter chicken",
+            "burger",
+            "cocktails",
+            "pizza",
+            "cakes",
+            "rice"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "3.0 km"
+    },
+    {
+        "name": "Beck Ltd",
+        "location": "3098, Jose Village, Faridabad, 121001, India",
+        "rating": 4.3,
+        "menu": [
+            "chinese",
+            "cocktails",
+            "dosa",
+            "burger",
+            "desserts",
+            "samosa",
+            "biryani",
+            "pasta"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "7.0 km"
+    },
+    {
+        "name": "Lara, Wilson and Williams",
+        "location": "3255, Nathan Street, Faridabad, 121001, India",
+        "rating": 3.9,
+        "menu": [
+            "dosa",
+            "cocktails",
+            "cakes",
+            "butter chicken",
+            "rice",
+            "biryani",
+            "samosa",
+            "pasta",
+            "idly",
+            "burger",
+            "pizza",
+            "desserts",
+            "chinese"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "3.7 km"
+    },
+    {
+        "name": "Campbell-Tapia",
+        "location": "2955, Davis Valleys, Faridabad, 121003, India",
+        "rating": 4.8,
+        "menu": [
+            "pizza",
+            "samosa",
+            "dosa",
+            "burger",
+            "biryani",
+            "chinese",
+            "desserts",
+            "cakes"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "4.7 km"
+    },
+    {
+        "name": "Stevens-Perkins",
+        "location": "1111, Black Loop, Faridabad, 110044, India",
+        "rating": 3.6,
+        "menu": [
+            "desserts",
+            "pasta",
+            "pizza",
+            "rice",
+            "samosa",
+            "burger"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "0.0 km"
+    },
+    {
+        "name": "Evans LLC",
+        "location": "7112, John Ports, Faridabad, 121006, India",
+        "rating": 4.8,
+        "menu": [
+            "pizza",
+            "dosa",
+            "butter chicken",
+            "desserts",
+            "cakes",
+            "pasta",
+            "burger",
+            "chinese",
+            "biryani",
+            "samosa",
+            "cocktails"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "4.2 km"
+    },
+    {
+        "name": "Torres-Poole",
+        "location": "252, Crystal Knoll, Faridabad, 121002, India",
+        "rating": 4.3,
+        "menu": [
+            "cakes",
+            "chinese",
+            "biryani",
+            "cocktails",
+            "dosa",
+            "pasta"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "4.9 km"
+    },
+    {
+        "name": "Cervantes, Holmes and Hernandez",
+        "location": "2656, Hudson Flat, Faridabad, 101213, India",
+        "rating": 3.3,
+        "menu": [
+            "cocktails",
+            "rice",
+            "dosa",
+            "idly",
+            "samosa",
+            "pasta",
+            "chinese",
+            "pizza"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "5.7 km"
+    },
+    {
+        "name": "Boyer-Martinez",
+        "location": "8134, Parsons Roads, Faridabad, 101213, India",
+        "rating": 3.2,
+        "menu": [
+            "biryani",
+            "chinese",
+            "dosa",
+            "idly",
+            "rice",
+            "cocktails",
+            "samosa",
+            "burger",
+            "butter chicken",
+            "cakes",
+            "pizza",
+            "desserts"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "3.0 km"
+    },
+    {
+        "name": "Miller, Wallace and Thornton",
+        "location": "980, Melissa Way, Faridabad, 121006, India",
+        "rating": 3.3,
+        "menu": [
+            "rice",
+            "burger",
+            "butter chicken",
+            "biryani",
+            "dosa",
+            "cakes",
+            "samosa",
+            "cocktails",
+            "pizza",
+            "pasta",
+            "desserts",
+            "idly"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "2.8 km"
+    },
+    {
+        "name": "Allen-Wilson",
+        "location": "892, Sarah Keys, Faridabad, 121010, India",
+        "rating": 3.8,
+        "menu": [
+            "biryani",
+            "idly",
+            "rice",
+            "chinese",
+            "pasta",
+            "samosa",
+            "pizza",
+            "desserts",
+            "cocktails",
+            "cakes",
+            "butter chicken",
+            "burger"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "6.9 km"
+    },
+    {
+        "name": "Rodriguez, Prince and Romero",
+        "location": "752, Cassie Gateway, Faridabad, 121002, India",
+        "rating": 4.7,
+        "menu": [
+            "rice",
+            "cocktails",
+            "cakes",
+            "butter chicken",
+            "samosa",
+            "chinese",
+            "idly",
+            "burger",
+            "desserts",
+            "pasta",
+            "dosa",
+            "biryani",
+            "pizza"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "6.0 km"
+    },
+    {
+        "name": "Ellis-Young",
+        "location": "00411, Kayla Circles, Faridabad, 121004, India",
+        "rating": 4.6,
+        "menu": [
+            "biryani",
+            "desserts",
+            "burger",
+            "chinese",
+            "samosa",
+            "rice",
+            "dosa",
+            "pasta",
+            "cakes",
+            "cocktails",
+            "idly"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "2.0 km"
+    },
+    {
+        "name": "Baker PLC",
+        "location": "36219, Thomas Rapid, Faridabad, 121003, India",
+        "rating": 4.6,
+        "menu": [
+            "chinese",
+            "dosa",
+            "rice",
+            "pizza",
+            "cakes",
+            "cocktails",
+            "biryani"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "5.2 km"
+    },
+    {
+        "name": "Obrien-Roman",
+        "location": "37465, Robert Lights, Faridabad, 121007, India",
+        "rating": 4.7,
+        "menu": [
+            "burger",
+            "rice",
+            "cakes",
+            "butter chicken",
+            "pasta",
+            "chinese",
+            "idly",
+            "biryani",
+            "desserts",
+            "pizza",
+            "samosa",
+            "cocktails",
+            "dosa"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "8.5 km"
+    },
+    {
+        "name": "Norton LLC",
+        "location": "36604, Robert Passage, Faridabad, 121010, India",
+        "rating": 4.4,
+        "menu": [
+            "burger",
+            "biryani",
+            "chinese",
+            "samosa",
+            "pasta",
+            "butter chicken",
+            "idly",
+            "pizza",
+            "dosa",
+            "rice"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "8.2 km"
+    },
+    {
+        "name": "Murphy-Hill",
+        "location": "7821, Joseph Islands, Faridabad, 121012, India",
+        "rating": 4.1,
+        "menu": [
+            "rice",
+            "pasta",
+            "idly",
+            "cakes",
+            "cocktails",
+            "samosa",
+            "desserts",
+            "biryani",
+            "pizza"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "8.1 km"
+    },
+    {
+        "name": "Gutierrez-Deleon",
+        "location": "321, Michelle Mill, Faridabad, 121010, India",
+        "rating": 3.3,
+        "menu": [
+            "desserts",
+            "cocktails",
+            "biryani",
+            "idly",
+            "pasta",
+            "samosa",
+            "pizza",
+            "cakes",
+            "burger",
+            "butter chicken",
+            "dosa"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "5.5 km"
+    },
+    {
+        "name": "Harper, Obrien and Dean",
+        "location": "57687, Marie Parks, Faridabad, 121003, India",
+        "rating": 3.8,
+        "menu": [
+            "butter chicken",
+            "cocktails",
+            "burger",
+            "idly",
+            "dosa",
+            "pizza",
+            "desserts",
+            "rice",
+            "chinese",
+            "samosa",
+            "biryani",
+            "pasta"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "5.8 km"
+    },
+    {
+        "name": "Wright, Johnson and Bowen",
+        "location": "63143, Scott Port, Faridabad, 121012, India",
+        "rating": 3.9,
+        "menu": [
+            "burger",
+            "pasta",
+            "biryani",
+            "samosa",
+            "rice",
+            "idly",
+            "cakes",
+            "desserts",
+            "pizza",
+            "dosa"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "6.5 km"
+    },
+    {
+        "name": "Brown, Higgins and Morgan",
+        "location": "313, Long Falls, Faridabad, 121001, India",
+        "rating": 4.2,
+        "menu": [
+            "rice",
+            "idly",
+            "pasta",
+            "pizza",
+            "burger",
+            "samosa",
+            "chinese",
+            "biryani",
+            "cocktails",
+            "desserts",
+            "butter chicken"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "4.7 km"
+    },
+    {
+        "name": "Cruz and Sons",
+        "location": "4363, Hurley Crescent, Faridabad, 121005, India",
+        "rating": 3.5,
+        "menu": [
+            "desserts",
+            "butter chicken",
+            "pasta",
+            "burger",
+            "dosa",
+            "rice",
+            "chinese",
+            "idly",
+            "cocktails",
+            "samosa",
+            "biryani",
+            "pizza",
+            "cakes"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "3.9 km"
+    },
+    {
+        "name": "Hernandez, Mendez and Mahoney",
+        "location": "46200, Carter Estates, Faridabad, 121006, India",
+        "rating": 4.5,
+        "menu": [
+            "dosa",
+            "idly",
+            "rice",
+            "cocktails",
+            "cakes",
+            "butter chicken"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "2.9 km"
+    },
+    {
+        "name": "Love LLC",
+        "location": "6717, Kevin Meadows, Faridabad, 110044, India",
+        "rating": 3.9,
+        "menu": [
+            "butter chicken",
+            "rice",
+            "samosa",
+            "desserts",
+            "idly",
+            "cakes"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "8.4 km"
+    },
+    {
+        "name": "Kelly LLC",
+        "location": "83093, Braun Loaf, Faridabad, 121003, India",
+        "rating": 4.3,
+        "menu": [
+            "pasta",
+            "samosa",
+            "butter chicken",
+            "cakes",
+            "dosa",
+            "idly",
+            "chinese",
+            "desserts"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "3.4 km"
+    },
+    {
+        "name": "Nguyen Ltd",
+        "location": "24070, Cynthia Route, Faridabad, 110044, India",
+        "rating": 4.8,
+        "menu": [
+            "pizza",
+            "cakes",
+            "samosa",
+            "rice",
+            "chinese",
+            "cocktails",
+            "butter chicken",
+            "desserts",
+            "biryani"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "1.9 km"
+    },
+    {
+        "name": "Lopez-Lopez",
+        "location": "1134, Ryan Coves, Faridabad, 101213, India",
+        "rating": 3.2,
+        "menu": [
+            "dosa",
+            "burger",
+            "chinese",
+            "pasta",
+            "idly",
+            "samosa",
+            "desserts",
+            "rice",
+            "butter chicken",
+            "biryani",
+            "pizza",
+            "cakes"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "7.1 km"
+    },
+    {
+        "name": "Raymond-Marshall",
+        "location": "4996, Hancock Glen, Faridabad, 121002, India",
+        "rating": 4.5,
+        "menu": [
+            "pizza",
+            "burger",
+            "desserts",
+            "pasta",
+            "idly",
+            "butter chicken",
+            "biryani",
+            "dosa",
+            "samosa",
+            "cocktails"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "4.0 km"
+    },
+    {
+        "name": "Klein and Sons",
+        "location": "3169, Williams Neck, Faridabad, 121006, India",
+        "rating": 4.5,
+        "menu": [
+            "pasta",
+            "cocktails",
+            "biryani",
+            "samosa",
+            "rice",
+            "desserts",
+            "cakes",
+            "idly",
+            "dosa"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "4.8 km"
+    },
+    {
+        "name": "White LLC",
+        "location": "745, Sean Park, Faridabad, 121003, India",
+        "rating": 4.2,
+        "menu": [
+            "biryani",
+            "desserts",
+            "butter chicken",
+            "samosa",
+            "pizza",
+            "cakes",
+            "pasta",
+            "idly",
+            "rice",
+            "chinese",
+            "cocktails"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "2.3 km"
+    },
+    {
+        "name": "Richardson-Maddox",
+        "location": "99740, Smith Underpass, Faridabad, 121005, India",
+        "rating": 4.5,
+        "menu": [
+            "desserts",
+            "dosa",
+            "butter chicken",
+            "idly",
+            "samosa",
+            "cocktails",
+            "biryani",
+            "burger",
+            "cakes",
+            "chinese",
+            "pizza"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "7.5 km"
+    },
+    {
+        "name": "Chavez, Roberts and Greene",
+        "location": "62335, Emily Junctions, Faridabad, 121003, India",
+        "rating": 4.8,
+        "menu": [
+            "cakes",
+            "rice",
+            "pasta",
+            "idly",
+            "cocktails",
+            "biryani",
+            "dosa",
+            "chinese"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "0.5 km"
+    },
+    {
+        "name": "Jackson Ltd",
+        "location": "40531, Nichols Spring, Faridabad, 121012, India",
+        "rating": 3.8,
+        "menu": [
+            "cakes",
+            "desserts",
+            "biryani",
+            "chinese",
+            "butter chicken",
+            "burger",
+            "samosa"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "0.8 km"
+    },
+    {
+        "name": "Pitts-Steele",
+        "location": "03367, Charles Mall, Faridabad, 121006, India",
+        "rating": 4.3,
+        "menu": [
+            "samosa",
+            "idly",
+            "cocktails",
+            "rice",
+            "dosa",
+            "burger"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "8.1 km"
+    },
+    {
+        "name": "Dickerson LLC",
+        "location": "78474, Moore Wells, Faridabad, 121012, India",
+        "rating": 3.7,
+        "menu": [
+            "desserts",
+            "biryani",
+            "samosa",
+            "cocktails",
+            "chinese",
+            "pasta",
+            "dosa",
+            "pizza",
+            "idly",
+            "butter chicken",
+            "rice",
+            "cakes",
+            "burger"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "1.8 km"
+    },
+    {
+        "name": "Patton-Stewart",
+        "location": "666, Hernandez Trafficway, Faridabad, 121005, India",
+        "rating": 4.3,
+        "menu": [
+            "rice",
+            "butter chicken",
+            "chinese",
+            "cakes",
+            "samosa",
+            "biryani"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "4.0 km"
+    },
+    {
+        "name": "Cardenas PLC",
+        "location": "7678, Steven Shoals, Faridabad, 121009, India",
+        "rating": 4.9,
+        "menu": [
+            "burger",
+            "desserts",
+            "cocktails",
+            "pasta",
+            "biryani",
+            "dosa",
+            "chinese",
+            "cakes",
+            "samosa",
+            "rice",
+            "butter chicken"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "8.5 km"
+    },
+    {
+        "name": "Hernandez-Ramos",
+        "location": "423, Bell Knoll, Faridabad, 121001, India",
+        "rating": 4.5,
+        "menu": [
+            "pasta",
+            "desserts",
+            "chinese",
+            "dosa",
+            "butter chicken",
+            "idly",
+            "cakes",
+            "rice",
+            "cocktails"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "3.6 km"
+    },
+    {
+        "name": "Burton Inc",
+        "location": "888, Brandi Club, Faridabad, 121013, India",
+        "rating": 4.0,
+        "menu": [
+            "samosa",
+            "pasta",
+            "dosa",
+            "rice",
+            "pizza",
+            "idly"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "5.9 km"
+    },
+    {
+        "name": "Dawson, Randall and Roberts",
+        "location": "7914, Scott Fields, Faridabad, 121009, India",
+        "rating": 4.2,
+        "menu": [
+            "samosa",
+            "cocktails",
+            "butter chicken",
+            "rice",
+            "burger",
+            "cakes",
+            "idly",
+            "desserts",
+            "chinese",
+            "pasta",
+            "dosa",
+            "pizza"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "2.1 km"
+    },
+    {
+        "name": "Guerrero and Sons",
+        "location": "95802, Catherine Fall, Faridabad, 121006, India",
+        "rating": 3.8,
+        "menu": [
+            "butter chicken",
+            "pasta",
+            "idly",
+            "cakes",
+            "chinese",
+            "rice",
+            "burger",
+            "cocktails",
+            "pizza",
+            "samosa",
+            "dosa"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "6.0 km"
+    },
+    {
+        "name": "Sosa, Beasley and Williams",
+        "location": "37398, Yoder Valleys, Faridabad, 110044, India",
+        "rating": 4.3,
+        "menu": [
+            "biryani",
+            "pasta",
+            "idly",
+            "butter chicken",
+            "burger",
+            "chinese",
+            "dosa",
+            "rice",
+            "desserts",
+            "cocktails",
+            "cakes"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "3.5 km"
+    },
+    {
+        "name": "Zuniga, Harrison and Smith",
+        "location": "74640, Donna Extensions, Faridabad, 121012, India",
+        "rating": 4.3,
+        "menu": [
+            "pizza",
+            "desserts",
+            "burger",
+            "butter chicken",
+            "pasta",
+            "samosa",
+            "biryani",
+            "chinese",
+            "cocktails",
+            "rice",
+            "dosa",
+            "cakes",
+            "idly"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "5.2 km"
+    },
+    {
+        "name": "Kerr, Archer and Williams",
+        "location": "3498, Tonya Corner, Faridabad, 121001, India",
+        "rating": 4.5,
+        "menu": [
+            "desserts",
+            "cakes",
+            "cocktails",
+            "burger",
+            "pizza",
+            "biryani"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "4.2 km"
+    },
+    {
+        "name": "Powell-Cole",
+        "location": "1115, Ward Villages, Faridabad, 121013, India",
+        "rating": 4.6,
+        "menu": [
+            "cocktails",
+            "pizza",
+            "biryani",
+            "cakes",
+            "idly",
+            "butter chicken",
+            "pasta",
+            "samosa",
+            "chinese",
+            "desserts",
+            "rice"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "5.4 km"
+    },
+    {
+        "name": "Nelson and Sons",
+        "location": "27033, Dyer Cliff, Faridabad, 121005, India",
+        "rating": 4.9,
+        "menu": [
+            "desserts",
+            "cakes",
+            "dosa",
+            "pizza",
+            "rice",
+            "butter chicken",
+            "pasta",
+            "burger",
+            "samosa",
+            "cocktails",
+            "chinese",
+            "biryani",
+            "idly"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "1.6 km"
+    },
+    {
+        "name": "Rodriguez and Sons",
+        "location": "8260, Erika Crest, Faridabad, 121004, India",
+        "rating": 4.5,
+        "menu": [
+            "cakes",
+            "dosa",
+            "biryani",
+            "pizza",
+            "cocktails",
+            "burger",
+            "idly",
+            "butter chicken"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "2.8 km"
+    },
+    {
+        "name": "Pearson, Roberts and Rodgers",
+        "location": "8915, Kristen View, Faridabad, 121007, India",
+        "rating": 4.0,
+        "menu": [
+            "dosa",
+            "rice",
+            "samosa",
+            "cocktails",
+            "butter chicken",
+            "desserts",
+            "pasta",
+            "chinese",
+            "biryani",
+            "idly"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "3.2 km"
+    },
+    {
+        "name": "Mejia, Walters and Walker",
+        "location": "1659, Olson Union, Faridabad, 121003, India",
+        "rating": 3.9,
+        "menu": [
+            "burger",
+            "biryani",
+            "cocktails",
+            "chinese",
+            "cakes",
+            "dosa",
+            "idly",
+            "pasta",
+            "butter chicken",
+            "pizza",
+            "rice"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "2.6 km"
+    },
+    {
+        "name": "Sanders-Rivas",
+        "location": "5995, Vasquez Inlet, Faridabad, 121001, India",
+        "rating": 3.1,
+        "menu": [
+            "rice",
+            "burger",
+            "samosa",
+            "chinese",
+            "pizza",
+            "biryani"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "3.3 km"
+    },
+    {
+        "name": "Burnett, Munoz and Reid",
+        "location": "2231, Thompson Branch, Faridabad, 121001, India",
+        "rating": 4.6,
+        "menu": [
+            "burger",
+            "idly",
+            "rice",
+            "butter chicken",
+            "biryani",
+            "pizza",
+            "cakes",
+            "desserts"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "8.2 km"
+    },
+    {
+        "name": "Faulkner-Carter",
+        "location": "460, Robin Station, Faridabad, 101213, India",
+        "rating": 4.3,
+        "menu": [
+            "rice",
+            "dosa",
+            "samosa",
+            "idly",
+            "burger",
+            "desserts",
+            "biryani",
+            "butter chicken",
+            "chinese",
+            "pizza",
+            "cocktails",
+            "pasta"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "3.6 km"
+    },
+    {
+        "name": "Hamilton, Clark and Haney",
+        "location": "06214, Kristine Rest, Faridabad, 121009, India",
+        "rating": 3.2,
+        "menu": [
+            "cakes",
+            "biryani",
+            "butter chicken",
+            "samosa",
+            "rice",
+            "chinese",
+            "pasta",
+            "pizza",
+            "desserts",
+            "cocktails",
+            "dosa",
+            "idly",
+            "burger"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "2.0 km"
+    },
+    {
+        "name": "Clarke and Sons",
+        "location": "80599, Ray Highway, Faridabad, 101213, India",
+        "rating": 3.7,
+        "menu": [
+            "desserts",
+            "biryani",
+            "butter chicken",
+            "pasta",
+            "cocktails",
+            "rice",
+            "burger"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "4.9 km"
+    },
+    {
+        "name": "Mckenzie-Smith",
+        "location": "25890, Christopher Courts, Faridabad, 121008, India",
+        "rating": 3.7,
+        "menu": [
+            "burger",
+            "butter chicken",
+            "chinese",
+            "pizza",
+            "rice",
+            "dosa"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "5.7 km"
+    },
+    {
+        "name": "Williams Ltd",
+        "location": "67206, Larsen Islands, Faridabad, 121012, India",
+        "rating": 3.4,
+        "menu": [
+            "samosa",
+            "burger",
+            "chinese",
+            "cocktails",
+            "idly",
+            "rice",
+            "dosa"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "5.2 km"
+    },
+    {
+        "name": "Wells Ltd",
+        "location": "011, Bartlett Squares, Faridabad, 121007, India",
+        "rating": 3.3,
+        "menu": [
+            "pasta",
+            "chinese",
+            "biryani",
+            "cakes",
+            "samosa",
+            "idly",
+            "butter chicken",
+            "rice",
+            "pizza",
+            "desserts",
+            "cocktails",
+            "dosa",
+            "burger"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "4.0 km"
+    },
+    {
+        "name": "Snyder-Lee",
+        "location": "635, Harris Isle, Faridabad, 121006, India",
+        "rating": 3.2,
+        "menu": [
+            "burger",
+            "butter chicken",
+            "desserts",
+            "chinese",
+            "samosa",
+            "dosa",
+            "biryani"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "2.1 km"
+    },
+    {
+        "name": "Parsons-Cowan",
+        "location": "18676, Foster Port, Faridabad, 121008, India",
+        "rating": 3.6,
+        "menu": [
+            "pasta",
+            "rice",
+            "biryani",
+            "dosa",
+            "cocktails",
+            "samosa"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "3.0 km"
+    },
+    {
+        "name": "Carrillo-Gonzalez",
+        "location": "79935, Maria Islands, Faridabad, 121013, India",
+        "rating": 4.7,
+        "menu": [
+            "butter chicken",
+            "cocktails",
+            "chinese",
+            "pizza",
+            "desserts",
+            "idly"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "6.0 km"
+    },
+    {
+        "name": "Levy and Sons",
+        "location": "4167, Alicia Corner, Faridabad, 121005, India",
+        "rating": 4.2,
+        "menu": [
+            "biryani",
+            "idly",
+            "butter chicken",
+            "rice",
+            "dosa",
+            "cocktails"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "2.8 km"
+    },
+    {
+        "name": "Lucas-White",
+        "location": "656, Perez Turnpike, Faridabad, 121001, India",
+        "rating": 4.9,
+        "menu": [
+            "burger",
+            "cocktails",
+            "samosa",
+            "pasta",
+            "cakes",
+            "pizza",
+            "rice",
+            "chinese",
+            "dosa",
+            "butter chicken",
+            "idly"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "0.9 km"
+    },
+    {
+        "name": "Butler, Macdonald and Foster",
+        "location": "896, Courtney Green, Faridabad, 121007, India",
+        "rating": 3.6,
+        "menu": [
+            "pizza",
+            "rice",
+            "desserts",
+            "cakes",
+            "butter chicken",
+            "samosa",
+            "pasta",
+            "chinese",
+            "idly",
+            "cocktails",
+            "burger",
+            "dosa"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "0.1 km"
+    },
+    {
+        "name": "Harris-Jones",
+        "location": "5024, Leslie Tunnel, Faridabad, 110044, India",
+        "rating": 4.9,
+        "menu": [
+            "pasta",
+            "desserts",
+            "cakes",
+            "samosa",
+            "cocktails",
+            "rice",
+            "pizza",
+            "butter chicken",
+            "idly",
+            "dosa"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "0.5 km"
+    },
+    {
+        "name": "Garcia-Fisher",
+        "location": "122, Lori Mountains, Faridabad, 121009, India",
+        "rating": 3.7,
+        "menu": [
+            "chinese",
+            "cocktails",
+            "idly",
+            "dosa",
+            "butter chicken",
+            "burger",
+            "pizza",
+            "biryani"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "7.0 km"
+    },
+    {
+        "name": "Lopez LLC",
+        "location": "4224, Hernandez Knolls, Faridabad, 121012, India",
+        "rating": 4.0,
+        "menu": [
+            "desserts",
+            "cocktails",
+            "rice",
+            "pizza",
+            "chinese",
+            "idly",
+            "butter chicken",
+            "burger",
+            "samosa",
+            "biryani",
+            "pasta",
+            "cakes",
+            "dosa"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "5.2 km"
+    },
+    {
+        "name": "Lopez LLC",
+        "location": "414, Ramirez Lane, Faridabad, 121003, India",
+        "rating": 3.2,
+        "menu": [
+            "chinese",
+            "rice",
+            "desserts",
+            "pasta",
+            "cakes",
+            "biryani",
+            "pizza",
+            "burger",
+            "dosa",
+            "butter chicken",
+            "samosa",
+            "cocktails",
+            "idly"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "8.7 km"
+    },
+    {
+        "name": "Rios and Sons",
+        "location": "81229, Miller Overpass, Faridabad, 121008, India",
+        "rating": 3.9,
+        "menu": [
+            "dosa",
+            "idly",
+            "pasta",
+            "samosa",
+            "pizza",
+            "butter chicken",
+            "burger",
+            "rice",
+            "cocktails",
+            "cakes"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "9.0 km"
+    },
+    {
+        "name": "Martinez-James",
+        "location": "41816, Sarah Gateway, Faridabad, 121003, India",
+        "rating": 4.5,
+        "menu": [
+            "cocktails",
+            "cakes",
+            "dosa",
+            "idly",
+            "pizza",
+            "burger",
+            "biryani",
+            "rice",
+            "samosa",
+            "butter chicken"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "6.9 km"
+    },
+    {
+        "name": "Russell, Payne and Joyce",
+        "location": "0757, Miranda Groves, Faridabad, 121001, India",
+        "rating": 4.3,
+        "menu": [
+            "butter chicken",
+            "rice",
+            "biryani",
+            "burger",
+            "dosa",
+            "chinese",
+            "pizza",
+            "pasta",
+            "cocktails",
+            "idly"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "7.4 km"
+    },
+    {
+        "name": "Buchanan Ltd",
+        "location": "402, Eric Squares, Faridabad, 110044, India",
+        "rating": 4.0,
+        "menu": [
+            "desserts",
+            "biryani",
+            "idly",
+            "cocktails",
+            "samosa",
+            "cakes",
+            "dosa",
+            "burger"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "5.9 km"
+    },
+    {
+        "name": "Dean Inc",
+        "location": "99490, Edward Islands, Faridabad, 121004, India",
+        "rating": 3.6,
+        "menu": [
+            "samosa",
+            "burger",
+            "cocktails",
+            "pasta",
+            "rice",
+            "idly",
+            "dosa",
+            "chinese",
+            "biryani",
+            "pizza",
+            "butter chicken",
+            "cakes",
+            "desserts"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "2.3 km"
+    },
+    {
+        "name": "English, Hampton and Ray",
+        "location": "1558, James Islands, Faridabad, 121004, India",
+        "rating": 3.9,
+        "menu": [
+            "biryani",
+            "rice",
+            "pasta",
+            "chinese",
+            "samosa",
+            "cocktails",
+            "pizza",
+            "butter chicken",
+            "desserts",
+            "cakes",
+            "idly"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "2.1 km"
+    },
+    {
+        "name": "Williams-Johnson",
+        "location": "73077, Theresa Ways, Faridabad, 121004, India",
+        "rating": 3.6,
+        "menu": [
+            "biryani",
+            "butter chicken",
+            "chinese",
+            "idly",
+            "cakes",
+            "cocktails",
+            "samosa",
+            "burger",
+            "dosa"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "7.0 km"
+    },
+    {
+        "name": "Jimenez-Jimenez",
+        "location": "841, Aguirre Wells, Faridabad, 121010, India",
+        "rating": 3.9,
+        "menu": [
+            "pasta",
+            "pizza",
+            "dosa",
+            "cakes",
+            "desserts",
+            "butter chicken",
+            "biryani",
+            "samosa"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "4.4 km"
+    },
+    {
+        "name": "Parsons Inc",
+        "location": "27216, Joshua Roads, Faridabad, 121006, India",
+        "rating": 4.4,
+        "menu": [
+            "cocktails",
+            "biryani",
+            "cakes",
+            "samosa",
+            "pasta",
+            "butter chicken"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "5.1 km"
+    },
+    {
+        "name": "Wallace-Fisher",
+        "location": "000, Matthew Walk, Faridabad, 121003, India",
+        "rating": 3.4,
+        "menu": [
+            "pizza",
+            "cocktails",
+            "desserts",
+            "rice",
+            "cakes",
+            "burger",
+            "biryani",
+            "idly",
+            "pasta",
+            "chinese",
+            "dosa",
+            "butter chicken",
+            "samosa"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "7.7 km"
+    },
+    {
+        "name": "Maldonado LLC",
+        "location": "5568, Christopher Viaduct, Faridabad, 121005, India",
+        "rating": 3.1,
+        "menu": [
+            "burger",
+            "desserts",
+            "pasta",
+            "cakes",
+            "idly",
+            "samosa",
+            "butter chicken"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "3.7 km"
+    },
+    {
+        "name": "Smith, Kelley and Richardson",
+        "location": "512, Barnes Plain, Faridabad, 121002, India",
+        "rating": 3.7,
+        "menu": [
+            "dosa",
+            "cakes",
+            "chinese",
+            "cocktails",
+            "rice",
+            "idly",
+            "pizza",
+            "pasta",
+            "burger",
+            "samosa",
+            "biryani",
+            "desserts",
+            "butter chicken"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "5.1 km"
+    },
+    {
+        "name": "Stevenson PLC",
+        "location": "681, Cummings Crescent, Faridabad, 121008, India",
+        "rating": 3.9,
+        "menu": [
+            "biryani",
+            "cocktails",
+            "butter chicken",
+            "desserts",
+            "samosa",
+            "burger",
+            "dosa",
+            "chinese",
+            "rice",
+            "pasta",
+            "pizza",
+            "cakes"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "4.4 km"
+    },
+    {
+        "name": "Mccullough-Chapman",
+        "location": "7644, Mary Path, Faridabad, 121009, India",
+        "rating": 4.1,
+        "menu": [
+            "cocktails",
+            "samosa",
+            "idly",
+            "pasta",
+            "cakes",
+            "burger",
+            "butter chicken",
+            "pizza",
+            "rice",
+            "chinese",
+            "desserts",
+            "dosa",
+            "biryani"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "3.5 km"
+    },
+    {
+        "name": "Jones Inc",
+        "location": "531, Charles Well, Faridabad, 121013, India",
+        "rating": 3.7,
+        "menu": [
+            "butter chicken",
+            "cakes",
+            "dosa",
+            "idly",
+            "biryani",
+            "pasta",
+            "cocktails",
+            "desserts",
+            "samosa",
+            "pizza"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "4.5 km"
+    },
+    {
+        "name": "Hernandez Ltd",
+        "location": "15511, Michaela Fall, Faridabad, 121008, India",
+        "rating": 4.8,
+        "menu": [
+            "butter chicken",
+            "desserts",
+            "pasta",
+            "cocktails",
+            "burger",
+            "dosa",
+            "pizza",
+            "samosa",
+            "chinese"
+        ],
+        "open time": "10:00 am to 12:00 pm",
+        "distance": "1.7 km"
+    },
+    {
+        "name": "Harrison Ltd",
+        "location": "4599, Hicks Motorway, Faridabad, 121005, India",
+        "rating": 4.9,
+        "menu": [
+            "biryani",
+            "chinese",
+            "rice",
+            "samosa",
+            "butter chicken",
+            "pizza",
+            "pasta",
+            "dosa",
+            "idly",
+            "cocktails",
+            "burger"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "1.8 km"
+    },
+    {
+        "name": "Ramsey-Curry",
+        "location": "186, Jones Manors, Faridabad, 121004, India",
+        "rating": 3.3,
+        "menu": [
+            "desserts",
+            "idly",
+            "cocktails",
+            "chinese",
+            "burger",
+            "biryani",
+            "cakes",
+            "samosa",
+            "pasta",
+            "rice",
+            "pizza",
+            "dosa",
+            "butter chicken"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "7.3 km"
+    },
+    {
+        "name": "Thompson-Rollins",
+        "location": "25646, Norris Unions, Faridabad, 121012, India",
+        "rating": 4.2,
+        "menu": [
+            "rice",
+            "chinese",
+            "pizza",
+            "butter chicken",
+            "dosa",
+            "biryani",
+            "pasta",
+            "samosa",
+            "cocktails",
+            "desserts",
+            "idly"
+        ],
+        "open time": "12:00 pm to 10:00 pm",
+        "distance": "2.9 km"
+    },
+    {
+        "name": "Gutierrez Ltd",
+        "location": "99503, Scott Shoals, Faridabad, 121009, India",
+        "rating": 3.1,
+        "menu": [
+            "butter chicken",
+            "idly",
+            "desserts",
+            "pizza",
+            "cakes",
+            "cocktails"
+        ],
+        "open time": "11:00 am to 11:00 pm",
+        "distance": "2.3 km"
+    },
+    {
+        "name": "Martinez-Rice",
+        "location": "784, Nancy Flat, Faridabad, 121013, India",
+        "rating": 4.1,
+        "menu": [
+            "cocktails",
+            "dosa",
+            "idly",
+            "burger",
+            "samosa",
+            "biryani",
+            "desserts",
+            "pizza"
+        ],
+        "open time": "1:00 pm to 11:00 pm",
+        "distance": "2.2 km"
+    }
+]
